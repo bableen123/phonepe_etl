@@ -1,0 +1,2017 @@
+scope,state,year,quarter,metric_name,metric_value
+state,puducherry,2018,1,registeredUsers,49318
+state,puducherry,2018,1,appOpens,0
+state,tamil nadu,2018,1,registeredUsers,2104754
+state,tamil nadu,2018,1,appOpens,0
+state,uttar pradesh,2018,1,registeredUsers,4694250
+state,uttar pradesh,2018,1,appOpens,0
+state,madhya pradesh,2018,1,registeredUsers,2553603
+state,madhya pradesh,2018,1,appOpens,0
+state,andhra pradesh,2018,1,registeredUsers,3336450
+state,andhra pradesh,2018,1,appOpens,0
+state,tripura,2018,1,registeredUsers,55157
+state,tripura,2018,1,appOpens,0
+state,lakshadweep,2018,1,registeredUsers,501
+state,lakshadweep,2018,1,appOpens,0
+state,manipur,2018,1,registeredUsers,29925
+state,manipur,2018,1,appOpens,0
+state,maharashtra,2018,1,registeredUsers,6106994
+state,maharashtra,2018,1,appOpens,0
+state,dadra & nagar haveli & daman & diu,2018,1,registeredUsers,53258
+state,dadra & nagar haveli & daman & diu,2018,1,appOpens,0
+state,meghalaya,2018,1,registeredUsers,18513
+state,meghalaya,2018,1,appOpens,0
+state,andaman & nicobar islands,2018,1,registeredUsers,6740
+state,andaman & nicobar islands,2018,1,appOpens,0
+state,haryana,2018,1,registeredUsers,1847357
+state,haryana,2018,1,appOpens,0
+state,rajasthan,2018,1,registeredUsers,3158202
+state,rajasthan,2018,1,appOpens,0
+state,ladakh,2018,1,registeredUsers,8784
+state,ladakh,2018,1,appOpens,0
+state,punjab,2018,1,registeredUsers,847142
+state,punjab,2018,1,appOpens,0
+state,assam,2018,1,registeredUsers,385237
+state,assam,2018,1,appOpens,0
+state,jharkhand,2018,1,registeredUsers,885762
+state,jharkhand,2018,1,appOpens,0
+state,odisha,2018,1,registeredUsers,1594015
+state,odisha,2018,1,appOpens,0
+state,bihar,2018,1,registeredUsers,2133804
+state,bihar,2018,1,appOpens,0
+state,kerala,2018,1,registeredUsers,784184
+state,kerala,2018,1,appOpens,0
+state,karnataka,2018,1,registeredUsers,3717763
+state,karnataka,2018,1,appOpens,0
+state,chandigarh,2018,1,registeredUsers,86268
+state,chandigarh,2018,1,appOpens,0
+state,telangana,2018,1,registeredUsers,3315560
+state,telangana,2018,1,appOpens,0
+state,himachal pradesh,2018,1,registeredUsers,227373
+state,himachal pradesh,2018,1,appOpens,0
+state,west bengal,2018,1,registeredUsers,2604789
+state,west bengal,2018,1,appOpens,0
+state,gujarat,2018,1,registeredUsers,2690048
+state,gujarat,2018,1,appOpens,0
+state,sikkim,2018,1,registeredUsers,20051
+state,sikkim,2018,1,appOpens,0
+state,nagaland,2018,1,registeredUsers,15074
+state,nagaland,2018,1,appOpens,0
+state,mizoram,2018,1,registeredUsers,7593
+state,mizoram,2018,1,appOpens,0
+state,chhattisgarh,2018,1,registeredUsers,679263
+state,chhattisgarh,2018,1,appOpens,0
+state,jammu & kashmir,2018,1,registeredUsers,176425
+state,jammu & kashmir,2018,1,appOpens,0
+state,goa,2018,1,registeredUsers,91936
+state,goa,2018,1,appOpens,0
+state,arunachal pradesh,2018,1,registeredUsers,21495
+state,arunachal pradesh,2018,1,appOpens,0
+state,delhi,2018,1,registeredUsers,2087022
+state,delhi,2018,1,appOpens,0
+state,uttarakhand,2018,1,registeredUsers,483043
+state,uttarakhand,2018,1,appOpens,0
+state,puducherry,2018,2,registeredUsers,65580
+state,puducherry,2018,2,appOpens,0
+state,tamil nadu,2018,2,registeredUsers,2996036
+state,tamil nadu,2018,2,appOpens,0
+state,uttar pradesh,2018,2,registeredUsers,6442554
+state,uttar pradesh,2018,2,appOpens,0
+state,madhya pradesh,2018,2,registeredUsers,3441662
+state,madhya pradesh,2018,2,appOpens,0
+state,andhra pradesh,2018,2,registeredUsers,4402540
+state,andhra pradesh,2018,2,appOpens,0
+state,tripura,2018,2,registeredUsers,83369
+state,tripura,2018,2,appOpens,0
+state,lakshadweep,2018,2,registeredUsers,686
+state,lakshadweep,2018,2,appOpens,0
+state,manipur,2018,2,registeredUsers,46055
+state,manipur,2018,2,appOpens,0
+state,maharashtra,2018,2,registeredUsers,8222371
+state,maharashtra,2018,2,appOpens,0
+state,dadra & nagar haveli & daman & diu,2018,2,registeredUsers,71458
+state,dadra & nagar haveli & daman & diu,2018,2,appOpens,0
+state,meghalaya,2018,2,registeredUsers,26618
+state,meghalaya,2018,2,appOpens,0
+state,andaman & nicobar islands,2018,2,registeredUsers,9405
+state,andaman & nicobar islands,2018,2,appOpens,0
+state,haryana,2018,2,registeredUsers,2447221
+state,haryana,2018,2,appOpens,0
+state,rajasthan,2018,2,registeredUsers,4212964
+state,rajasthan,2018,2,appOpens,0
+state,ladakh,2018,2,registeredUsers,12918
+state,ladakh,2018,2,appOpens,0
+state,punjab,2018,2,registeredUsers,1152190
+state,punjab,2018,2,appOpens,0
+state,assam,2018,2,registeredUsers,571046
+state,assam,2018,2,appOpens,0
+state,jharkhand,2018,2,registeredUsers,1230599
+state,jharkhand,2018,2,appOpens,0
+state,odisha,2018,2,registeredUsers,2185781
+state,odisha,2018,2,appOpens,0
+state,bihar,2018,2,registeredUsers,3005872
+state,bihar,2018,2,appOpens,0
+state,kerala,2018,2,registeredUsers,1066587
+state,kerala,2018,2,appOpens,0
+state,karnataka,2018,2,registeredUsers,5030665
+state,karnataka,2018,2,appOpens,0
+state,chandigarh,2018,2,registeredUsers,115219
+state,chandigarh,2018,2,appOpens,0
+state,telangana,2018,2,registeredUsers,4260115
+state,telangana,2018,2,appOpens,0
+state,himachal pradesh,2018,2,registeredUsers,315299
+state,himachal pradesh,2018,2,appOpens,0
+state,west bengal,2018,2,registeredUsers,3833795
+state,west bengal,2018,2,appOpens,0
+state,gujarat,2018,2,registeredUsers,3565825
+state,gujarat,2018,2,appOpens,0
+state,sikkim,2018,2,registeredUsers,28097
+state,sikkim,2018,2,appOpens,0
+state,nagaland,2018,2,registeredUsers,22436
+state,nagaland,2018,2,appOpens,0
+state,mizoram,2018,2,registeredUsers,10422
+state,mizoram,2018,2,appOpens,0
+state,chhattisgarh,2018,2,registeredUsers,950675
+state,chhattisgarh,2018,2,appOpens,0
+state,jammu & kashmir,2018,2,registeredUsers,261609
+state,jammu & kashmir,2018,2,appOpens,0
+state,goa,2018,2,registeredUsers,122174
+state,goa,2018,2,appOpens,0
+state,arunachal pradesh,2018,2,registeredUsers,32883
+state,arunachal pradesh,2018,2,appOpens,0
+state,delhi,2018,2,registeredUsers,2756141
+state,delhi,2018,2,appOpens,0
+state,uttarakhand,2018,2,registeredUsers,649142
+state,uttarakhand,2018,2,appOpens,0
+state,puducherry,2018,3,registeredUsers,81546
+state,puducherry,2018,3,appOpens,0
+state,tamil nadu,2018,3,registeredUsers,3900177
+state,tamil nadu,2018,3,appOpens,0
+state,uttar pradesh,2018,3,registeredUsers,8096483
+state,uttar pradesh,2018,3,appOpens,0
+state,madhya pradesh,2018,3,registeredUsers,4309309
+state,madhya pradesh,2018,3,appOpens,0
+state,andhra pradesh,2018,3,registeredUsers,5427617
+state,andhra pradesh,2018,3,appOpens,0
+state,tripura,2018,3,registeredUsers,116874
+state,tripura,2018,3,appOpens,0
+state,lakshadweep,2018,3,registeredUsers,918
+state,lakshadweep,2018,3,appOpens,0
+state,manipur,2018,3,registeredUsers,61935
+state,manipur,2018,3,appOpens,0
+state,maharashtra,2018,3,registeredUsers,10435033
+state,maharashtra,2018,3,appOpens,0
+state,dadra & nagar haveli & daman & diu,2018,3,registeredUsers,92107
+state,dadra & nagar haveli & daman & diu,2018,3,appOpens,0
+state,meghalaya,2018,3,registeredUsers,37281
+state,meghalaya,2018,3,appOpens,0
+state,andaman & nicobar islands,2018,3,registeredUsers,12149
+state,andaman & nicobar islands,2018,3,appOpens,0
+state,haryana,2018,3,registeredUsers,3020398
+state,haryana,2018,3,appOpens,0
+state,rajasthan,2018,3,registeredUsers,5175453
+state,rajasthan,2018,3,appOpens,0
+state,ladakh,2018,3,registeredUsers,17749
+state,ladakh,2018,3,appOpens,0
+state,punjab,2018,3,registeredUsers,1473148
+state,punjab,2018,3,appOpens,0
+state,assam,2018,3,registeredUsers,784802
+state,assam,2018,3,appOpens,0
+state,jharkhand,2018,3,registeredUsers,1532362
+state,jharkhand,2018,3,appOpens,0
+state,odisha,2018,3,registeredUsers,2795718
+state,odisha,2018,3,appOpens,0
+state,bihar,2018,3,registeredUsers,3784535
+state,bihar,2018,3,appOpens,0
+state,kerala,2018,3,registeredUsers,1347598
+state,kerala,2018,3,appOpens,0
+state,karnataka,2018,3,registeredUsers,6372649
+state,karnataka,2018,3,appOpens,0
+state,chandigarh,2018,3,registeredUsers,143893
+state,chandigarh,2018,3,appOpens,0
+state,telangana,2018,3,registeredUsers,5138501
+state,telangana,2018,3,appOpens,0
+state,himachal pradesh,2018,3,registeredUsers,407634
+state,himachal pradesh,2018,3,appOpens,0
+state,west bengal,2018,3,registeredUsers,4851740
+state,west bengal,2018,3,appOpens,0
+state,gujarat,2018,3,registeredUsers,4433183
+state,gujarat,2018,3,appOpens,0
+state,sikkim,2018,3,registeredUsers,37637
+state,sikkim,2018,3,appOpens,0
+state,nagaland,2018,3,registeredUsers,32090
+state,nagaland,2018,3,appOpens,0
+state,mizoram,2018,3,registeredUsers,14502
+state,mizoram,2018,3,appOpens,0
+state,chhattisgarh,2018,3,registeredUsers,1217792
+state,chhattisgarh,2018,3,appOpens,0
+state,jammu & kashmir,2018,3,registeredUsers,342529
+state,jammu & kashmir,2018,3,appOpens,0
+state,goa,2018,3,registeredUsers,153802
+state,goa,2018,3,appOpens,0
+state,arunachal pradesh,2018,3,registeredUsers,45922
+state,arunachal pradesh,2018,3,appOpens,0
+state,delhi,2018,3,registeredUsers,3504911
+state,delhi,2018,3,appOpens,0
+state,uttarakhand,2018,3,registeredUsers,810612
+state,uttarakhand,2018,3,appOpens,0
+state,puducherry,2018,4,registeredUsers,109494
+state,puducherry,2018,4,appOpens,0
+state,tamil nadu,2018,4,registeredUsers,5199878
+state,tamil nadu,2018,4,appOpens,0
+state,uttar pradesh,2018,4,registeredUsers,10341964
+state,uttar pradesh,2018,4,appOpens,0
+state,madhya pradesh,2018,4,registeredUsers,5365442
+state,madhya pradesh,2018,4,appOpens,0
+state,andhra pradesh,2018,4,registeredUsers,6857409
+state,andhra pradesh,2018,4,appOpens,0
+state,tripura,2018,4,registeredUsers,153265
+state,tripura,2018,4,appOpens,0
+state,lakshadweep,2018,4,registeredUsers,1156
+state,lakshadweep,2018,4,appOpens,0
+state,manipur,2018,4,registeredUsers,82589
+state,manipur,2018,4,appOpens,0
+state,maharashtra,2018,4,registeredUsers,13381602
+state,maharashtra,2018,4,appOpens,0
+state,dadra & nagar haveli & daman & diu,2018,4,registeredUsers,116511
+state,dadra & nagar haveli & daman & diu,2018,4,appOpens,0
+state,meghalaya,2018,4,registeredUsers,49634
+state,meghalaya,2018,4,appOpens,0
+state,andaman & nicobar islands,2018,4,registeredUsers,15222
+state,andaman & nicobar islands,2018,4,appOpens,0
+state,haryana,2018,4,registeredUsers,3793079
+state,haryana,2018,4,appOpens,0
+state,rajasthan,2018,4,registeredUsers,6358738
+state,rajasthan,2018,4,appOpens,0
+state,ladakh,2018,4,registeredUsers,23883
+state,ladakh,2018,4,appOpens,0
+state,punjab,2018,4,registeredUsers,1865715
+state,punjab,2018,4,appOpens,0
+state,assam,2018,4,registeredUsers,1039221
+state,assam,2018,4,appOpens,0
+state,jharkhand,2018,4,registeredUsers,1913949
+state,jharkhand,2018,4,appOpens,0
+state,odisha,2018,4,registeredUsers,3623911
+state,odisha,2018,4,appOpens,0
+state,bihar,2018,4,registeredUsers,4776665
+state,bihar,2018,4,appOpens,0
+state,kerala,2018,4,registeredUsers,1757326
+state,kerala,2018,4,appOpens,0
+state,karnataka,2018,4,registeredUsers,8315802
+state,karnataka,2018,4,appOpens,0
+state,chandigarh,2018,4,registeredUsers,177747
+state,chandigarh,2018,4,appOpens,0
+state,telangana,2018,4,registeredUsers,6529679
+state,telangana,2018,4,appOpens,0
+state,himachal pradesh,2018,4,registeredUsers,526343
+state,himachal pradesh,2018,4,appOpens,0
+state,west bengal,2018,4,registeredUsers,6279278
+state,west bengal,2018,4,appOpens,0
+state,gujarat,2018,4,registeredUsers,5579040
+state,gujarat,2018,4,appOpens,0
+state,sikkim,2018,4,registeredUsers,48538
+state,sikkim,2018,4,appOpens,0
+state,nagaland,2018,4,registeredUsers,42997
+state,nagaland,2018,4,appOpens,0
+state,mizoram,2018,4,registeredUsers,19365
+state,mizoram,2018,4,appOpens,0
+state,chhattisgarh,2018,4,registeredUsers,1579998
+state,chhattisgarh,2018,4,appOpens,0
+state,jammu & kashmir,2018,4,registeredUsers,436563
+state,jammu & kashmir,2018,4,appOpens,0
+state,goa,2018,4,registeredUsers,195350
+state,goa,2018,4,appOpens,0
+state,arunachal pradesh,2018,4,registeredUsers,61852
+state,arunachal pradesh,2018,4,appOpens,0
+state,delhi,2018,4,registeredUsers,4630313
+state,delhi,2018,4,appOpens,0
+state,uttarakhand,2018,4,registeredUsers,1012103
+state,uttarakhand,2018,4,appOpens,0
+state,puducherry,2019,1,registeredUsers,133059
+state,puducherry,2019,1,appOpens,0
+state,tamil nadu,2019,1,registeredUsers,6296303
+state,tamil nadu,2019,1,appOpens,0
+state,uttar pradesh,2019,1,registeredUsers,12458661
+state,uttar pradesh,2019,1,appOpens,0
+state,madhya pradesh,2019,1,registeredUsers,6414403
+state,madhya pradesh,2019,1,appOpens,0
+state,andhra pradesh,2019,1,registeredUsers,8283019
+state,andhra pradesh,2019,1,appOpens,0
+state,tripura,2019,1,registeredUsers,183254
+state,tripura,2019,1,appOpens,0
+state,lakshadweep,2019,1,registeredUsers,1416
+state,lakshadweep,2019,1,appOpens,0
+state,manipur,2019,1,registeredUsers,99527
+state,manipur,2019,1,appOpens,0
+state,maharashtra,2019,1,registeredUsers,16284451
+state,maharashtra,2019,1,appOpens,0
+state,dadra & nagar haveli & daman & diu,2019,1,registeredUsers,140532
+state,dadra & nagar haveli & daman & diu,2019,1,appOpens,0
+state,meghalaya,2019,1,registeredUsers,61487
+state,meghalaya,2019,1,appOpens,0
+state,andaman & nicobar islands,2019,1,registeredUsers,18596
+state,andaman & nicobar islands,2019,1,appOpens,0
+state,haryana,2019,1,registeredUsers,4538767
+state,haryana,2019,1,appOpens,0
+state,rajasthan,2019,1,registeredUsers,7712204
+state,rajasthan,2019,1,appOpens,0
+state,ladakh,2019,1,registeredUsers,29649
+state,ladakh,2019,1,appOpens,0
+state,punjab,2019,1,registeredUsers,2226590
+state,punjab,2019,1,appOpens,0
+state,assam,2019,1,registeredUsers,1259085
+state,assam,2019,1,appOpens,0
+state,jharkhand,2019,1,registeredUsers,2279329
+state,jharkhand,2019,1,appOpens,0
+state,odisha,2019,1,registeredUsers,4320744
+state,odisha,2019,1,appOpens,0
+state,bihar,2019,1,registeredUsers,5745117
+state,bihar,2019,1,appOpens,0
+state,kerala,2019,1,registeredUsers,2136624
+state,kerala,2019,1,appOpens,0
+state,karnataka,2019,1,registeredUsers,10266174
+state,karnataka,2019,1,appOpens,0
+state,chandigarh,2019,1,registeredUsers,209175
+state,chandigarh,2019,1,appOpens,0
+state,telangana,2019,1,registeredUsers,7963425
+state,telangana,2019,1,appOpens,0
+state,himachal pradesh,2019,1,registeredUsers,653205
+state,himachal pradesh,2019,1,appOpens,0
+state,west bengal,2019,1,registeredUsers,7449425
+state,west bengal,2019,1,appOpens,0
+state,gujarat,2019,1,registeredUsers,6652536
+state,gujarat,2019,1,appOpens,0
+state,sikkim,2019,1,registeredUsers,58956
+state,sikkim,2019,1,appOpens,0
+state,nagaland,2019,1,registeredUsers,53911
+state,nagaland,2019,1,appOpens,0
+state,mizoram,2019,1,registeredUsers,23670
+state,mizoram,2019,1,appOpens,0
+state,chhattisgarh,2019,1,registeredUsers,1908898
+state,chhattisgarh,2019,1,appOpens,0
+state,jammu & kashmir,2019,1,registeredUsers,530669
+state,jammu & kashmir,2019,1,appOpens,0
+state,goa,2019,1,registeredUsers,238152
+state,goa,2019,1,appOpens,0
+state,arunachal pradesh,2019,1,registeredUsers,76957
+state,arunachal pradesh,2019,1,appOpens,0
+state,delhi,2019,1,registeredUsers,5499263
+state,delhi,2019,1,appOpens,0
+state,uttarakhand,2019,1,registeredUsers,1224955
+state,uttarakhand,2019,1,appOpens,0
+state,puducherry,2019,2,registeredUsers,156458
+state,puducherry,2019,2,appOpens,661932
+state,tamil nadu,2019,2,registeredUsers,7429609
+state,tamil nadu,2019,2,appOpens,33658961
+state,uttar pradesh,2019,2,registeredUsers,14316349
+state,uttar pradesh,2019,2,appOpens,78394040
+state,madhya pradesh,2019,2,registeredUsers,7301172
+state,madhya pradesh,2019,2,appOpens,50642151
+state,andhra pradesh,2019,2,registeredUsers,9389003
+state,andhra pradesh,2019,2,appOpens,81375251
+state,tripura,2019,2,registeredUsers,217644
+state,tripura,2019,2,appOpens,953627
+state,lakshadweep,2019,2,registeredUsers,1747
+state,lakshadweep,2019,2,appOpens,4580
+state,manipur,2019,2,registeredUsers,117747
+state,manipur,2019,2,appOpens,464829
+state,maharashtra,2019,2,registeredUsers,18776975
+state,maharashtra,2019,2,appOpens,109967705
+state,dadra & nagar haveli & daman & diu,2019,2,registeredUsers,158580
+state,dadra & nagar haveli & daman & diu,2019,2,appOpens,860686
+state,meghalaya,2019,2,registeredUsers,74746
+state,meghalaya,2019,2,appOpens,395764
+state,andaman & nicobar islands,2019,2,registeredUsers,21731
+state,andaman & nicobar islands,2019,2,appOpens,52640
+state,haryana,2019,2,registeredUsers,5178030
+state,haryana,2019,2,appOpens,31929195
+state,rajasthan,2019,2,registeredUsers,8783935
+state,rajasthan,2019,2,appOpens,62787336
+state,ladakh,2019,2,registeredUsers,35516
+state,ladakh,2019,2,appOpens,157317
+state,punjab,2019,2,registeredUsers,2600112
+state,punjab,2019,2,appOpens,10928094
+state,assam,2019,2,registeredUsers,1500128
+state,assam,2019,2,appOpens,7350326
+state,jharkhand,2019,2,registeredUsers,2604854
+state,jharkhand,2019,2,appOpens,14929066
+state,odisha,2019,2,registeredUsers,4845359
+state,odisha,2019,2,appOpens,33955545
+state,bihar,2019,2,registeredUsers,6589759
+state,bihar,2019,2,appOpens,39607022
+state,kerala,2019,2,registeredUsers,2550167
+state,kerala,2019,2,appOpens,8673220
+state,karnataka,2019,2,registeredUsers,11968087
+state,karnataka,2019,2,appOpens,113024811
+state,chandigarh,2019,2,registeredUsers,240439
+state,chandigarh,2019,2,appOpens,1220176
+state,telangana,2019,2,registeredUsers,9046007
+state,telangana,2019,2,appOpens,80842302
+state,himachal pradesh,2019,2,registeredUsers,772603
+state,himachal pradesh,2019,2,appOpens,3321711
+state,west bengal,2019,2,registeredUsers,8612795
+state,west bengal,2019,2,appOpens,49514201
+state,gujarat,2019,2,registeredUsers,7574645
+state,gujarat,2019,2,appOpens,34890301
+state,sikkim,2019,2,registeredUsers,70999
+state,sikkim,2019,2,appOpens,398520
+state,nagaland,2019,2,registeredUsers,66891
+state,nagaland,2019,2,appOpens,362497
+state,mizoram,2019,2,registeredUsers,28696
+state,mizoram,2019,2,appOpens,133025
+state,chhattisgarh,2019,2,registeredUsers,2191066
+state,chhattisgarh,2019,2,appOpens,13206373
+state,jammu & kashmir,2019,2,registeredUsers,631193
+state,jammu & kashmir,2019,2,appOpens,2705373
+state,goa,2019,2,registeredUsers,278940
+state,goa,2019,2,appOpens,1352232
+state,arunachal pradesh,2019,2,registeredUsers,95885
+state,arunachal pradesh,2019,2,appOpens,502873
+state,delhi,2019,2,registeredUsers,6165448
+state,delhi,2019,2,appOpens,43731570
+state,uttarakhand,2019,2,registeredUsers,1414339
+state,uttarakhand,2019,2,appOpens,7454279
+state,puducherry,2019,3,registeredUsers,177868
+state,puducherry,2019,3,appOpens,2476922
+state,tamil nadu,2019,3,registeredUsers,8428835
+state,tamil nadu,2019,3,appOpens,124690342
+state,uttar pradesh,2019,3,registeredUsers,16044607
+state,uttar pradesh,2019,3,appOpens,268142606
+state,madhya pradesh,2019,3,registeredUsers,8180664
+state,madhya pradesh,2019,3,appOpens,192353380
+state,andhra pradesh,2019,3,registeredUsers,10458693
+state,andhra pradesh,2019,3,appOpens,310953542
+state,tripura,2019,3,registeredUsers,245456
+state,tripura,2019,3,appOpens,3350991
+state,lakshadweep,2019,3,registeredUsers,2117
+state,lakshadweep,2019,3,appOpens,15038
+state,manipur,2019,3,registeredUsers,136316
+state,manipur,2019,3,appOpens,1594205
+state,maharashtra,2019,3,registeredUsers,21313081
+state,maharashtra,2019,3,appOpens,439998413
+state,dadra & nagar haveli & daman & diu,2019,3,registeredUsers,176929
+state,dadra & nagar haveli & daman & diu,2019,3,appOpens,3126189
+state,meghalaya,2019,3,registeredUsers,87395
+state,meghalaya,2019,3,appOpens,1387814
+state,andaman & nicobar islands,2019,3,registeredUsers,23931
+state,andaman & nicobar islands,2019,3,appOpens,171107
+state,haryana,2019,3,registeredUsers,5783752
+state,haryana,2019,3,appOpens,118332587
+state,rajasthan,2019,3,registeredUsers,9797304
+state,rajasthan,2019,3,appOpens,238338999
+state,ladakh,2019,3,registeredUsers,39173
+state,ladakh,2019,3,appOpens,503126
+state,punjab,2019,3,registeredUsers,2962713
+state,punjab,2019,3,appOpens,40860886
+state,assam,2019,3,registeredUsers,1731523
+state,assam,2019,3,appOpens,25393673
+state,jharkhand,2019,3,registeredUsers,2915511
+state,jharkhand,2019,3,appOpens,55504460
+state,odisha,2019,3,registeredUsers,5387209
+state,odisha,2019,3,appOpens,130181456
+state,bihar,2019,3,registeredUsers,7380265
+state,bihar,2019,3,appOpens,126521298
+state,kerala,2019,3,registeredUsers,2990963
+state,kerala,2019,3,appOpens,31471694
+state,karnataka,2019,3,registeredUsers,13635075
+state,karnataka,2019,3,appOpens,445683660
+state,chandigarh,2019,3,registeredUsers,267337
+state,chandigarh,2019,3,appOpens,4625196
+state,telangana,2019,3,registeredUsers,10090557
+state,telangana,2019,3,appOpens,318124511
+state,himachal pradesh,2019,3,registeredUsers,876184
+state,himachal pradesh,2019,3,appOpens,10720741
+state,west bengal,2019,3,registeredUsers,9643222
+state,west bengal,2019,3,appOpens,176559011
+state,gujarat,2019,3,registeredUsers,8429299
+state,gujarat,2019,3,appOpens,129441484
+state,sikkim,2019,3,registeredUsers,82128
+state,sikkim,2019,3,appOpens,1316804
+state,nagaland,2019,3,registeredUsers,80077
+state,nagaland,2019,3,appOpens,1244022
+state,mizoram,2019,3,registeredUsers,34134
+state,mizoram,2019,3,appOpens,457834
+state,chhattisgarh,2019,3,registeredUsers,2435058
+state,chhattisgarh,2019,3,appOpens,46362341
+state,jammu & kashmir,2019,3,registeredUsers,658455
+state,jammu & kashmir,2019,3,appOpens,3843919
+state,goa,2019,3,registeredUsers,317194
+state,goa,2019,3,appOpens,4753892
+state,arunachal pradesh,2019,3,registeredUsers,112149
+state,arunachal pradesh,2019,3,appOpens,1811700
+state,delhi,2019,3,registeredUsers,6782286
+state,delhi,2019,3,appOpens,163381027
+state,uttarakhand,2019,3,registeredUsers,1585859
+state,uttarakhand,2019,3,appOpens,24660988
+state,puducherry,2019,4,registeredUsers,204292
+state,puducherry,2019,4,appOpens,3263122
+state,tamil nadu,2019,4,registeredUsers,9620493
+state,tamil nadu,2019,4,appOpens,155011717
+state,uttar pradesh,2019,4,registeredUsers,17949542
+state,uttar pradesh,2019,4,appOpens,324068625
+state,madhya pradesh,2019,4,registeredUsers,9165241
+state,madhya pradesh,2019,4,appOpens,237844976
+state,andhra pradesh,2019,4,registeredUsers,11757883
+state,andhra pradesh,2019,4,appOpens,411201518
+state,tripura,2019,4,registeredUsers,272298
+state,tripura,2019,4,appOpens,3610807
+state,lakshadweep,2019,4,registeredUsers,2427
+state,lakshadweep,2019,4,appOpens,17760
+state,manipur,2019,4,registeredUsers,155358
+state,manipur,2019,4,appOpens,1855488
+state,maharashtra,2019,4,registeredUsers,23745297
+state,maharashtra,2019,4,appOpens,543654112
+state,dadra & nagar haveli & daman & diu,2019,4,registeredUsers,197598
+state,dadra & nagar haveli & daman & diu,2019,4,appOpens,3770543
+state,meghalaya,2019,4,registeredUsers,100030
+state,meghalaya,2019,4,appOpens,1490542
+state,andaman & nicobar islands,2019,4,registeredUsers,25960
+state,andaman & nicobar islands,2019,4,appOpens,177012
+state,haryana,2019,4,registeredUsers,6366679
+state,haryana,2019,4,appOpens,136721888
+state,rajasthan,2019,4,registeredUsers,10925031
+state,rajasthan,2019,4,appOpens,288904693
+state,ladakh,2019,4,registeredUsers,43108
+state,ladakh,2019,4,appOpens,470440
+state,punjab,2019,4,registeredUsers,3321742
+state,punjab,2019,4,appOpens,47673880
+state,assam,2019,4,registeredUsers,1941220
+state,assam,2019,4,appOpens,26599449
+state,jharkhand,2019,4,registeredUsers,3281371
+state,jharkhand,2019,4,appOpens,70181789
+state,odisha,2019,4,registeredUsers,6115537
+state,odisha,2019,4,appOpens,189905719
+state,bihar,2019,4,registeredUsers,8342274
+state,bihar,2019,4,appOpens,163998097
+state,kerala,2019,4,registeredUsers,3503938
+state,kerala,2019,4,appOpens,40046033
+state,karnataka,2019,4,registeredUsers,15385416
+state,karnataka,2019,4,appOpens,569674870
+state,chandigarh,2019,4,registeredUsers,289590
+state,chandigarh,2019,4,appOpens,4960441
+state,telangana,2019,4,registeredUsers,11220691
+state,telangana,2019,4,appOpens,399239044
+state,himachal pradesh,2019,4,registeredUsers,985945
+state,himachal pradesh,2019,4,appOpens,12637904
+state,west bengal,2019,4,registeredUsers,10885058
+state,west bengal,2019,4,appOpens,244326613
+state,gujarat,2019,4,registeredUsers,9323799
+state,gujarat,2019,4,appOpens,147973757
+state,sikkim,2019,4,registeredUsers,92972
+state,sikkim,2019,4,appOpens,1552004
+state,nagaland,2019,4,registeredUsers,93124
+state,nagaland,2019,4,appOpens,1454551
+state,mizoram,2019,4,registeredUsers,39809
+state,mizoram,2019,4,appOpens,529168
+state,chhattisgarh,2019,4,registeredUsers,2725900
+state,chhattisgarh,2019,4,appOpens,57278977
+state,jammu & kashmir,2019,4,registeredUsers,673367
+state,jammu & kashmir,2019,4,appOpens,998572
+state,goa,2019,4,registeredUsers,353546
+state,goa,2019,4,appOpens,6290543
+state,arunachal pradesh,2019,4,registeredUsers,129321
+state,arunachal pradesh,2019,4,appOpens,2140340
+state,delhi,2019,4,registeredUsers,7289883
+state,delhi,2019,4,appOpens,172682671
+state,uttarakhand,2019,4,registeredUsers,1752677
+state,uttarakhand,2019,4,appOpens,28853867
+state,puducherry,2020,1,registeredUsers,230908
+state,puducherry,2020,1,appOpens,3820943
+state,tamil nadu,2020,1,registeredUsers,10872368
+state,tamil nadu,2020,1,appOpens,179908753
+state,uttar pradesh,2020,1,registeredUsers,20136256
+state,uttar pradesh,2020,1,appOpens,374282083
+state,madhya pradesh,2020,1,registeredUsers,10151371
+state,madhya pradesh,2020,1,appOpens,262452480
+state,andhra pradesh,2020,1,registeredUsers,13022060
+state,andhra pradesh,2020,1,appOpens,486513773
+state,tripura,2020,1,registeredUsers,299962
+state,tripura,2020,1,appOpens,4063223
+state,lakshadweep,2020,1,registeredUsers,2772
+state,lakshadweep,2020,1,appOpens,21982
+state,manipur,2020,1,registeredUsers,177374
+state,manipur,2020,1,appOpens,2175642
+state,maharashtra,2020,1,registeredUsers,26168390
+state,maharashtra,2020,1,appOpens,615146568
+state,dadra & nagar haveli & daman & diu,2020,1,registeredUsers,218496
+state,dadra & nagar haveli & daman & diu,2020,1,appOpens,4195122
+state,meghalaya,2020,1,registeredUsers,113814
+state,meghalaya,2020,1,appOpens,1716211
+state,andaman & nicobar islands,2020,1,registeredUsers,28368
+state,andaman & nicobar islands,2020,1,appOpens,193586
+state,haryana,2020,1,registeredUsers,7018770
+state,haryana,2020,1,appOpens,157793468
+state,rajasthan,2020,1,registeredUsers,12142053
+state,rajasthan,2020,1,appOpens,341815756
+state,ladakh,2020,1,registeredUsers,47790
+state,ladakh,2020,1,appOpens,590484
+state,punjab,2020,1,registeredUsers,3739502
+state,punjab,2020,1,appOpens,53853710
+state,assam,2020,1,registeredUsers,2185938
+state,assam,2020,1,appOpens,33097892
+state,jharkhand,2020,1,registeredUsers,3651393
+state,jharkhand,2020,1,appOpens,74014713
+state,odisha,2020,1,registeredUsers,6652970
+state,odisha,2020,1,appOpens,175918622
+state,bihar,2020,1,registeredUsers,9351234
+state,bihar,2020,1,appOpens,183868505
+state,kerala,2020,1,registeredUsers,4078316
+state,kerala,2020,1,appOpens,46396398
+state,karnataka,2020,1,registeredUsers,17016980
+state,karnataka,2020,1,appOpens,626488036
+state,chandigarh,2020,1,registeredUsers,312887
+state,chandigarh,2020,1,appOpens,5201211
+state,telangana,2020,1,registeredUsers,12306860
+state,telangana,2020,1,appOpens,454723816
+state,himachal pradesh,2020,1,registeredUsers,1106025
+state,himachal pradesh,2020,1,appOpens,14640104
+state,west bengal,2020,1,registeredUsers,11960822
+state,west bengal,2020,1,appOpens,207068218
+state,gujarat,2020,1,registeredUsers,10259843
+state,gujarat,2020,1,appOpens,165605122
+state,sikkim,2020,1,registeredUsers,104631
+state,sikkim,2020,1,appOpens,1697163
+state,nagaland,2020,1,registeredUsers,107143
+state,nagaland,2020,1,appOpens,1684520
+state,mizoram,2020,1,registeredUsers,46499
+state,mizoram,2020,1,appOpens,644683
+state,chhattisgarh,2020,1,registeredUsers,3016487
+state,chhattisgarh,2020,1,appOpens,64224101
+state,jammu & kashmir,2020,1,registeredUsers,735408
+state,jammu & kashmir,2020,1,appOpens,4476894
+state,goa,2020,1,registeredUsers,391900
+state,goa,2020,1,appOpens,7147233
+state,arunachal pradesh,2020,1,registeredUsers,149066
+state,arunachal pradesh,2020,1,appOpens,2598321
+state,delhi,2020,1,registeredUsers,7826197
+state,delhi,2020,1,appOpens,178263986
+state,uttarakhand,2020,1,registeredUsers,1943606
+state,uttarakhand,2020,1,appOpens,32631265
+state,puducherry,2020,2,registeredUsers,255600
+state,puducherry,2020,2,appOpens,3057608
+state,tamil nadu,2020,2,registeredUsers,12150786
+state,tamil nadu,2020,2,appOpens,144907447
+state,uttar pradesh,2020,2,registeredUsers,22498519
+state,uttar pradesh,2020,2,appOpens,383703534
+state,madhya pradesh,2020,2,registeredUsers,11374423
+state,madhya pradesh,2020,2,appOpens,253770044
+state,andhra pradesh,2020,2,registeredUsers,14319675
+state,andhra pradesh,2020,2,appOpens,494341698
+state,tripura,2020,2,registeredUsers,336666
+state,tripura,2020,2,appOpens,4443221
+state,lakshadweep,2020,2,registeredUsers,3187
+state,lakshadweep,2020,2,appOpens,29202
+state,manipur,2020,2,registeredUsers,215496
+state,manipur,2020,2,appOpens,3011491
+state,maharashtra,2020,2,registeredUsers,28765086
+state,maharashtra,2020,2,appOpens,506354812
+state,dadra & nagar haveli & daman & diu,2020,2,registeredUsers,244814
+state,dadra & nagar haveli & daman & diu,2020,2,appOpens,4505127
+state,meghalaya,2020,2,registeredUsers,136211
+state,meghalaya,2020,2,appOpens,2205253
+state,andaman & nicobar islands,2020,2,registeredUsers,32710
+state,andaman & nicobar islands,2020,2,appOpens,305072
+state,haryana,2020,2,registeredUsers,7682878
+state,haryana,2020,2,appOpens,143650123
+state,rajasthan,2020,2,registeredUsers,13563201
+state,rajasthan,2020,2,appOpens,329941181
+state,ladakh,2020,2,registeredUsers,53034
+state,ladakh,2020,2,appOpens,695673
+state,punjab,2020,2,registeredUsers,4225481
+state,punjab,2020,2,appOpens,51289576
+state,assam,2020,2,registeredUsers,2550883
+state,assam,2020,2,appOpens,39304924
+state,jharkhand,2020,2,registeredUsers,4061035
+state,jharkhand,2020,2,appOpens,76339276
+state,odisha,2020,2,registeredUsers,7258315
+state,odisha,2020,2,appOpens,154682772
+state,bihar,2020,2,registeredUsers,10603767
+state,bihar,2020,2,appOpens,218435035
+state,kerala,2020,2,registeredUsers,4728844
+state,kerala,2020,2,appOpens,45832953
+state,karnataka,2020,2,registeredUsers,18655366
+state,karnataka,2020,2,appOpens,490510075
+state,chandigarh,2020,2,registeredUsers,336351
+state,chandigarh,2020,2,appOpens,3451250
+state,telangana,2020,2,registeredUsers,13378191
+state,telangana,2020,2,appOpens,367130505
+state,himachal pradesh,2020,2,registeredUsers,1249867
+state,himachal pradesh,2020,2,appOpens,16125580
+state,west bengal,2020,2,registeredUsers,13222022
+state,west bengal,2020,2,appOpens,198589332
+state,gujarat,2020,2,registeredUsers,11392657
+state,gujarat,2020,2,appOpens,155264359
+state,sikkim,2020,2,registeredUsers,119921
+state,sikkim,2020,2,appOpens,1912335
+state,nagaland,2020,2,registeredUsers,130205
+state,nagaland,2020,2,appOpens,2119279
+state,mizoram,2020,2,registeredUsers,55574
+state,mizoram,2020,2,appOpens,739308
+state,chhattisgarh,2020,2,registeredUsers,3401658
+state,chhattisgarh,2020,2,appOpens,68493384
+state,jammu & kashmir,2020,2,registeredUsers,845294
+state,jammu & kashmir,2020,2,appOpens,9856653
+state,goa,2020,2,registeredUsers,430639
+state,goa,2020,2,appOpens,5310126
+state,arunachal pradesh,2020,2,registeredUsers,177534
+state,arunachal pradesh,2020,2,appOpens,3387006
+state,delhi,2020,2,registeredUsers,8391139
+state,delhi,2020,2,appOpens,142852253
+state,uttarakhand,2020,2,registeredUsers,2148567
+state,uttarakhand,2020,2,appOpens,31074793
+state,puducherry,2020,3,registeredUsers,285173
+state,puducherry,2020,3,appOpens,4222159
+state,tamil nadu,2020,3,registeredUsers,13643451
+state,tamil nadu,2020,3,appOpens,194683284
+state,uttar pradesh,2020,3,registeredUsers,24838116
+state,uttar pradesh,2020,3,appOpens,450784508
+state,madhya pradesh,2020,3,registeredUsers,12564224
+state,madhya pradesh,2020,3,appOpens,324850994
+state,andhra pradesh,2020,3,registeredUsers,15692405
+state,andhra pradesh,2020,3,appOpens,696300382
+state,tripura,2020,3,registeredUsers,376731
+state,tripura,2020,3,appOpens,5777908
+state,lakshadweep,2020,3,registeredUsers,3644
+state,lakshadweep,2020,3,appOpens,32128
+state,manipur,2020,3,registeredUsers,258563
+state,manipur,2020,3,appOpens,3552375
+state,maharashtra,2020,3,registeredUsers,31409513
+state,maharashtra,2020,3,appOpens,668197101
+state,dadra & nagar haveli & daman & diu,2020,3,registeredUsers,267946
+state,dadra & nagar haveli & daman & diu,2020,3,appOpens,4421499
+state,meghalaya,2020,3,registeredUsers,157741
+state,meghalaya,2020,3,appOpens,2384534
+state,andaman & nicobar islands,2020,3,registeredUsers,41335
+state,andaman & nicobar islands,2020,3,appOpens,515565
+state,haryana,2020,3,registeredUsers,8398816
+state,haryana,2020,3,appOpens,188614769
+state,rajasthan,2020,3,registeredUsers,14969412
+state,rajasthan,2020,3,appOpens,436682870
+state,ladakh,2020,3,registeredUsers,58401
+state,ladakh,2020,3,appOpens,1015680
+state,punjab,2020,3,registeredUsers,4694233
+state,punjab,2020,3,appOpens,58946732
+state,assam,2020,3,registeredUsers,2830011
+state,assam,2020,3,appOpens,41875278
+state,jharkhand,2020,3,registeredUsers,4480027
+state,jharkhand,2020,3,appOpens,99318784
+state,odisha,2020,3,registeredUsers,7901755
+state,odisha,2020,3,appOpens,205597666
+state,bihar,2020,3,registeredUsers,11763213
+state,bihar,2020,3,appOpens,266652644
+state,kerala,2020,3,registeredUsers,5582300
+state,kerala,2020,3,appOpens,64309022
+state,karnataka,2020,3,registeredUsers,20487550
+state,karnataka,2020,3,appOpens,693683212
+state,chandigarh,2020,3,registeredUsers,362588
+state,chandigarh,2020,3,appOpens,4888739
+state,telangana,2020,3,registeredUsers,14590882
+state,telangana,2020,3,appOpens,527781925
+state,himachal pradesh,2020,3,registeredUsers,1378634
+state,himachal pradesh,2020,3,appOpens,18411750
+state,west bengal,2020,3,registeredUsers,14448366
+state,west bengal,2020,3,appOpens,246554831
+state,gujarat,2020,3,registeredUsers,12467847
+state,gujarat,2020,3,appOpens,184402472
+state,sikkim,2020,3,registeredUsers,134773
+state,sikkim,2020,3,appOpens,2156470
+state,nagaland,2020,3,registeredUsers,173106
+state,nagaland,2020,3,appOpens,2868642
+state,mizoram,2020,3,registeredUsers,68315
+state,mizoram,2020,3,appOpens,924865
+state,chhattisgarh,2020,3,registeredUsers,3799386
+state,chhattisgarh,2020,3,appOpens,86918606
+state,jammu & kashmir,2020,3,registeredUsers,949819
+state,jammu & kashmir,2020,3,appOpens,11443454
+state,goa,2020,3,registeredUsers,474962
+state,goa,2020,3,appOpens,6129766
+state,arunachal pradesh,2020,3,registeredUsers,206046
+state,arunachal pradesh,2020,3,appOpens,4003421
+state,delhi,2020,3,registeredUsers,9044174
+state,delhi,2020,3,appOpens,190025029
+state,uttarakhand,2020,3,registeredUsers,2365438
+state,uttarakhand,2020,3,appOpens,40377348
+state,puducherry,2020,4,registeredUsers,319626
+state,puducherry,2020,4,appOpens,6377136
+state,tamil nadu,2020,4,registeredUsers,15357586
+state,tamil nadu,2020,4,appOpens,288233552
+state,uttar pradesh,2020,4,registeredUsers,27249134
+state,uttar pradesh,2020,4,appOpens,552220798
+state,madhya pradesh,2020,4,registeredUsers,13737947
+state,madhya pradesh,2020,4,appOpens,405571446
+state,andhra pradesh,2020,4,registeredUsers,17076565
+state,andhra pradesh,2020,4,appOpens,869078538
+state,tripura,2020,4,registeredUsers,409110
+state,tripura,2020,4,appOpens,6017249
+state,lakshadweep,2020,4,registeredUsers,4179
+state,lakshadweep,2020,4,appOpens,41144
+state,manipur,2020,4,registeredUsers,288772
+state,manipur,2020,4,appOpens,3783432
+state,maharashtra,2020,4,registeredUsers,34432631
+state,maharashtra,2020,4,appOpens,952006770
+state,dadra & nagar haveli & daman & diu,2020,4,registeredUsers,296493
+state,dadra & nagar haveli & daman & diu,2020,4,appOpens,6196436
+state,meghalaya,2020,4,registeredUsers,176447
+state,meghalaya,2020,4,appOpens,2745917
+state,andaman & nicobar islands,2020,4,registeredUsers,52396
+state,andaman & nicobar islands,2020,4,appOpens,887208
+state,haryana,2020,4,registeredUsers,9129873
+state,haryana,2020,4,appOpens,236101307
+state,rajasthan,2020,4,registeredUsers,16329494
+state,rajasthan,2020,4,appOpens,511015109
+state,ladakh,2020,4,registeredUsers,64853
+state,ladakh,2020,4,appOpens,1232757
+state,punjab,2020,4,registeredUsers,5157868
+state,punjab,2020,4,appOpens,71191183
+state,assam,2020,4,registeredUsers,3106153
+state,assam,2020,4,appOpens,49321814
+state,jharkhand,2020,4,registeredUsers,4917938
+state,jharkhand,2020,4,appOpens,126310835
+state,odisha,2020,4,registeredUsers,8598751
+state,odisha,2020,4,appOpens,270085293
+state,bihar,2020,4,registeredUsers,12889833
+state,bihar,2020,4,appOpens,317056600
+state,kerala,2020,4,registeredUsers,6387169
+state,kerala,2020,4,appOpens,91415273
+state,karnataka,2020,4,registeredUsers,22400182
+state,karnataka,2020,4,appOpens,935510690
+state,chandigarh,2020,4,registeredUsers,391402
+state,chandigarh,2020,4,appOpens,6477974
+state,telangana,2020,4,registeredUsers,15927797
+state,telangana,2020,4,appOpens,764614235
+state,himachal pradesh,2020,4,registeredUsers,1508766
+state,himachal pradesh,2020,4,appOpens,22001148
+state,west bengal,2020,4,registeredUsers,15662093
+state,west bengal,2020,4,appOpens,291721919
+state,gujarat,2020,4,registeredUsers,13605203
+state,gujarat,2020,4,appOpens,230497353
+state,sikkim,2020,4,registeredUsers,148543
+state,sikkim,2020,4,appOpens,2478670
+state,nagaland,2020,4,registeredUsers,192188
+state,nagaland,2020,4,appOpens,2922121
+state,mizoram,2020,4,registeredUsers,78731
+state,mizoram,2020,4,appOpens,1096182
+state,chhattisgarh,2020,4,registeredUsers,4190601
+state,chhattisgarh,2020,4,appOpens,109900467
+state,jammu & kashmir,2020,4,registeredUsers,1079022
+state,jammu & kashmir,2020,4,appOpens,16018751
+state,goa,2020,4,registeredUsers,527584
+state,goa,2020,4,appOpens,10991118
+state,arunachal pradesh,2020,4,registeredUsers,231292
+state,arunachal pradesh,2020,4,appOpens,4472667
+state,delhi,2020,4,registeredUsers,9747968
+state,delhi,2020,4,appOpens,243433752
+state,uttarakhand,2020,4,registeredUsers,2596244
+state,uttarakhand,2020,4,appOpens,52564888
+state,puducherry,2021,1,registeredUsers,346279
+state,puducherry,2021,1,appOpens,7914507
+state,tamil nadu,2021,1,registeredUsers,16632608
+state,tamil nadu,2021,1,appOpens,348801714
+state,uttar pradesh,2021,1,registeredUsers,29482075
+state,uttar pradesh,2021,1,appOpens,639718324
+state,madhya pradesh,2021,1,registeredUsers,14839427
+state,madhya pradesh,2021,1,appOpens,482500276
+state,andhra pradesh,2021,1,registeredUsers,18363733
+state,andhra pradesh,2021,1,appOpens,957709447
+state,tripura,2021,1,registeredUsers,439636
+state,tripura,2021,1,appOpens,6009660
+state,lakshadweep,2021,1,registeredUsers,4577
+state,lakshadweep,2021,1,appOpens,47283
+state,manipur,2021,1,registeredUsers,312668
+state,manipur,2021,1,appOpens,3709227
+state,maharashtra,2021,1,registeredUsers,37077537
+state,maharashtra,2021,1,appOpens,1101976484
+state,dadra & nagar haveli & daman & diu,2021,1,registeredUsers,321396
+state,dadra & nagar haveli & daman & diu,2021,1,appOpens,7302462
+state,meghalaya,2021,1,registeredUsers,190869
+state,meghalaya,2021,1,appOpens,2939026
+state,andaman & nicobar islands,2021,1,registeredUsers,57758
+state,andaman & nicobar islands,2021,1,appOpens,1004336
+state,haryana,2021,1,registeredUsers,9827905
+state,haryana,2021,1,appOpens,266686683
+state,rajasthan,2021,1,registeredUsers,17661088
+state,rajasthan,2021,1,appOpens,632535059
+state,ladakh,2021,1,registeredUsers,69919
+state,ladakh,2021,1,appOpens,1184204
+state,punjab,2021,1,registeredUsers,5568777
+state,punjab,2021,1,appOpens,81052268
+state,assam,2021,1,registeredUsers,3358448
+state,assam,2021,1,appOpens,56752364
+state,jharkhand,2021,1,registeredUsers,5313049
+state,jharkhand,2021,1,appOpens,141731331
+state,odisha,2021,1,registeredUsers,9233009
+state,odisha,2021,1,appOpens,301315474
+state,bihar,2021,1,registeredUsers,13946288
+state,bihar,2021,1,appOpens,355792608
+state,kerala,2021,1,registeredUsers,6936943
+state,kerala,2021,1,appOpens,108918733
+state,karnataka,2021,1,registeredUsers,24095832
+state,karnataka,2021,1,appOpens,1084917385
+state,chandigarh,2021,1,registeredUsers,419998
+state,chandigarh,2021,1,appOpens,7919533
+state,telangana,2021,1,registeredUsers,17149069
+state,telangana,2021,1,appOpens,920040042
+state,himachal pradesh,2021,1,registeredUsers,1622951
+state,himachal pradesh,2021,1,appOpens,24228094
+state,west bengal,2021,1,registeredUsers,16808799
+state,west bengal,2021,1,appOpens,316832674
+state,gujarat,2021,1,registeredUsers,14670126
+state,gujarat,2021,1,appOpens,264732874
+state,sikkim,2021,1,registeredUsers,160213
+state,sikkim,2021,1,appOpens,2795331
+state,nagaland,2021,1,registeredUsers,207808
+state,nagaland,2021,1,appOpens,2980581
+state,mizoram,2021,1,registeredUsers,85750
+state,mizoram,2021,1,appOpens,1193214
+state,chhattisgarh,2021,1,registeredUsers,4514551
+state,chhattisgarh,2021,1,appOpens,124648704
+state,jammu & kashmir,2021,1,registeredUsers,1174818
+state,jammu & kashmir,2021,1,appOpens,18834009
+state,goa,2021,1,registeredUsers,570035
+state,goa,2021,1,appOpens,15467672
+state,arunachal pradesh,2021,1,registeredUsers,251240
+state,arunachal pradesh,2021,1,appOpens,4796708
+state,delhi,2021,1,registeredUsers,10467210
+state,delhi,2021,1,appOpens,281201600
+state,uttarakhand,2021,1,registeredUsers,2802122
+state,uttarakhand,2021,1,appOpens,59282260
+state,puducherry,2021,2,registeredUsers,369961
+state,puducherry,2021,2,appOpens,5178916
+state,tamil nadu,2021,2,registeredUsers,17804542
+state,tamil nadu,2021,2,appOpens,343968474
+state,uttar pradesh,2021,2,registeredUsers,31651894
+state,uttar pradesh,2021,2,appOpens,673598864
+state,madhya pradesh,2021,2,registeredUsers,15940935
+state,madhya pradesh,2021,2,appOpens,727741649
+state,andhra pradesh,2021,2,registeredUsers,19620905
+state,andhra pradesh,2021,2,appOpens,1044705436
+state,tripura,2021,2,registeredUsers,472153
+state,tripura,2021,2,appOpens,9500881
+state,lakshadweep,2021,2,registeredUsers,4896
+state,lakshadweep,2021,2,appOpens,40301
+state,manipur,2021,2,registeredUsers,335409
+state,manipur,2021,2,appOpens,7269002
+state,maharashtra,2021,2,registeredUsers,39664697
+state,maharashtra,2021,2,appOpens,1208083592
+state,dadra & nagar haveli & daman & diu,2021,2,registeredUsers,344994
+state,dadra & nagar haveli & daman & diu,2021,2,appOpens,5062983
+state,meghalaya,2021,2,registeredUsers,205686
+state,meghalaya,2021,2,appOpens,7290804
+state,andaman & nicobar islands,2021,2,registeredUsers,62095
+state,andaman & nicobar islands,2021,2,appOpens,2248223
+state,haryana,2021,2,registeredUsers,10530594
+state,haryana,2021,2,appOpens,234052506
+state,rajasthan,2021,2,registeredUsers,18980985
+state,rajasthan,2021,2,appOpens,1072091232
+state,ladakh,2021,2,registeredUsers,75048
+state,ladakh,2021,2,appOpens,4391632
+state,punjab,2021,2,registeredUsers,5976548
+state,punjab,2021,2,appOpens,85894089
+state,assam,2021,2,registeredUsers,3617056
+state,assam,2021,2,appOpens,102003890
+state,jharkhand,2021,2,registeredUsers,5701503
+state,jharkhand,2021,2,appOpens,184234107
+state,odisha,2021,2,registeredUsers,9891029
+state,odisha,2021,2,appOpens,367576494
+state,bihar,2021,2,registeredUsers,14972134
+state,bihar,2021,2,appOpens,371198660
+state,kerala,2021,2,registeredUsers,7416083
+state,kerala,2021,2,appOpens,87814415
+state,karnataka,2021,2,registeredUsers,25751023
+state,karnataka,2021,2,appOpens,1051089714
+state,chandigarh,2021,2,registeredUsers,448572
+state,chandigarh,2021,2,appOpens,4733924
+state,telangana,2021,2,registeredUsers,18306880
+state,telangana,2021,2,appOpens,905317692
+state,himachal pradesh,2021,2,registeredUsers,1743151
+state,himachal pradesh,2021,2,appOpens,43269977
+state,west bengal,2021,2,registeredUsers,17979979
+state,west bengal,2021,2,appOpens,275341466
+state,gujarat,2021,2,registeredUsers,15735981
+state,gujarat,2021,2,appOpens,282432543
+state,sikkim,2021,2,registeredUsers,171740
+state,sikkim,2021,2,appOpens,4541121
+state,nagaland,2021,2,registeredUsers,223337
+state,nagaland,2021,2,appOpens,6716892
+state,mizoram,2021,2,registeredUsers,92552
+state,mizoram,2021,2,appOpens,4014597
+state,chhattisgarh,2021,2,registeredUsers,4837055
+state,chhattisgarh,2021,2,appOpens,205784717
+state,jammu & kashmir,2021,2,registeredUsers,1261267
+state,jammu & kashmir,2021,2,appOpens,34274559
+state,goa,2021,2,registeredUsers,609106
+state,goa,2021,2,appOpens,12710361
+state,arunachal pradesh,2021,2,registeredUsers,270572
+state,arunachal pradesh,2021,2,appOpens,13025849
+state,delhi,2021,2,registeredUsers,11182699
+state,delhi,2021,2,appOpens,164997774
+state,uttarakhand,2021,2,registeredUsers,3004040
+state,uttarakhand,2021,2,appOpens,78380036
+state,puducherry,2021,3,registeredUsers,396609
+state,puducherry,2021,3,appOpens,6899592
+state,tamil nadu,2021,3,registeredUsers,19127440
+state,tamil nadu,2021,3,appOpens,459826734
+state,uttar pradesh,2021,3,registeredUsers,34151882
+state,uttar pradesh,2021,3,appOpens,803890116
+state,madhya pradesh,2021,3,registeredUsers,17210233
+state,madhya pradesh,2021,3,appOpens,929572924
+state,andhra pradesh,2021,3,registeredUsers,21059898
+state,andhra pradesh,2021,3,appOpens,1258536879
+state,tripura,2021,3,registeredUsers,509929
+state,tripura,2021,3,appOpens,12279146
+state,lakshadweep,2021,3,registeredUsers,5287
+state,lakshadweep,2021,3,appOpens,49127
+state,manipur,2021,3,registeredUsers,361749
+state,manipur,2021,3,appOpens,9743772
+state,maharashtra,2021,3,registeredUsers,42581217
+state,maharashtra,2021,3,appOpens,1565370852
+state,dadra & nagar haveli & daman & diu,2021,3,registeredUsers,371874
+state,dadra & nagar haveli & daman & diu,2021,3,appOpens,7162734
+state,meghalaya,2021,3,registeredUsers,223065
+state,meghalaya,2021,3,appOpens,9952956
+state,andaman & nicobar islands,2021,3,registeredUsers,66982
+state,andaman & nicobar islands,2021,3,appOpens,3121625
+state,haryana,2021,3,registeredUsers,11325336
+state,haryana,2021,3,appOpens,296884105
+state,rajasthan,2021,3,registeredUsers,20499465
+state,rajasthan,2021,3,appOpens,1429553825
+state,ladakh,2021,3,registeredUsers,81210
+state,ladakh,2021,3,appOpens,7099550
+state,punjab,2021,3,registeredUsers,6434862
+state,punjab,2021,3,appOpens,107614155
+state,assam,2021,3,registeredUsers,3918480
+state,assam,2021,3,appOpens,135288631
+state,jharkhand,2021,3,registeredUsers,6151843
+state,jharkhand,2021,3,appOpens,230475998
+state,odisha,2021,3,registeredUsers,10652490
+state,odisha,2021,3,appOpens,492879704
+state,bihar,2021,3,registeredUsers,16160771
+state,bihar,2021,3,appOpens,421801379
+state,kerala,2021,3,registeredUsers,7949425
+state,kerala,2021,3,appOpens,116282717
+state,karnataka,2021,3,registeredUsers,27614221
+state,karnataka,2021,3,appOpens,1366781087
+state,chandigarh,2021,3,registeredUsers,480463
+state,chandigarh,2021,3,appOpens,6378807
+state,telangana,2021,3,registeredUsers,19615278
+state,telangana,2021,3,appOpens,1107529197
+state,himachal pradesh,2021,3,registeredUsers,1880626
+state,himachal pradesh,2021,3,appOpens,52970288
+state,west bengal,2021,3,registeredUsers,19323278
+state,west bengal,2021,3,appOpens,348588666
+state,gujarat,2021,3,registeredUsers,16946761
+state,gujarat,2021,3,appOpens,379987151
+state,sikkim,2021,3,registeredUsers,184693
+state,sikkim,2021,3,appOpens,5714565
+state,nagaland,2021,3,registeredUsers,241797
+state,nagaland,2021,3,appOpens,8661991
+state,mizoram,2021,3,registeredUsers,100647
+state,mizoram,2021,3,appOpens,5385718
+state,chhattisgarh,2021,3,registeredUsers,5206084
+state,chhattisgarh,2021,3,appOpens,276486076
+state,jammu & kashmir,2021,3,registeredUsers,1359860
+state,jammu & kashmir,2021,3,appOpens,45025197
+state,goa,2021,3,registeredUsers,653458
+state,goa,2021,3,appOpens,16575111
+state,arunachal pradesh,2021,3,registeredUsers,293073
+state,arunachal pradesh,2021,3,appOpens,17209654
+state,delhi,2021,3,registeredUsers,11980061
+state,delhi,2021,3,appOpens,223844376
+state,uttarakhand,2021,3,registeredUsers,3233509
+state,uttarakhand,2021,3,appOpens,90886530
+state,puducherry,2021,4,registeredUsers,423167
+state,puducherry,2021,4,appOpens,14257568
+state,tamil nadu,2021,4,registeredUsers,20433142
+state,tamil nadu,2021,4,appOpens,685861440
+state,uttar pradesh,2021,4,registeredUsers,36617655
+state,uttar pradesh,2021,4,appOpens,1175923794
+state,madhya pradesh,2021,4,registeredUsers,18456243
+state,madhya pradesh,2021,4,appOpens,956630781
+state,andhra pradesh,2021,4,registeredUsers,22489029
+state,andhra pradesh,2021,4,appOpens,1447717601
+state,tripura,2021,4,registeredUsers,546292
+state,tripura,2021,4,appOpens,10728702
+state,lakshadweep,2021,4,registeredUsers,5638
+state,lakshadweep,2021,4,appOpens,67320
+state,manipur,2021,4,registeredUsers,387746
+state,manipur,2021,4,appOpens,7603294
+state,maharashtra,2021,4,registeredUsers,45482506
+state,maharashtra,2021,4,appOpens,2031739248
+state,dadra & nagar haveli & daman & diu,2021,4,registeredUsers,398963
+state,dadra & nagar haveli & daman & diu,2021,4,appOpens,15009455
+state,meghalaya,2021,4,registeredUsers,240268
+state,meghalaya,2021,4,appOpens,6048594
+state,andaman & nicobar islands,2021,4,registeredUsers,71780
+state,andaman & nicobar islands,2021,4,appOpens,2112910
+state,haryana,2021,4,registeredUsers,12116439
+state,haryana,2021,4,appOpens,442176987
+state,rajasthan,2021,4,registeredUsers,21977202
+state,rajasthan,2021,4,appOpens,1185124031
+state,ladakh,2021,4,registeredUsers,87057
+state,ladakh,2021,4,appOpens,2665203
+state,punjab,2021,4,registeredUsers,6880103
+state,punjab,2021,4,appOpens,138427499
+state,assam,2021,4,registeredUsers,4209591
+state,assam,2021,4,appOpens,130600435
+state,jharkhand,2021,4,registeredUsers,6596196
+state,jharkhand,2021,4,appOpens,284960009
+state,odisha,2021,4,registeredUsers,11399235
+state,odisha,2021,4,appOpens,567351446
+state,bihar,2021,4,registeredUsers,17335981
+state,bihar,2021,4,appOpens,647400838
+state,kerala,2021,4,registeredUsers,8473810
+state,kerala,2021,4,appOpens,213542857
+state,karnataka,2021,4,registeredUsers,29459646
+state,karnataka,2021,4,appOpens,1941558513
+state,chandigarh,2021,4,registeredUsers,512092
+state,chandigarh,2021,4,appOpens,11603954
+state,telangana,2021,4,registeredUsers,20917649
+state,telangana,2021,4,appOpens,1407599392
+state,himachal pradesh,2021,4,registeredUsers,2013747
+state,himachal pradesh,2021,4,appOpens,47670982
+state,west bengal,2021,4,registeredUsers,20644527
+state,west bengal,2021,4,appOpens,512335839
+state,gujarat,2021,4,registeredUsers,18139201
+state,gujarat,2021,4,appOpens,487846209
+state,sikkim,2021,4,registeredUsers,197407
+state,sikkim,2021,4,appOpens,5525552
+state,nagaland,2021,4,registeredUsers,259990
+state,nagaland,2021,4,appOpens,6383337
+state,mizoram,2021,4,registeredUsers,108405
+state,mizoram,2021,4,appOpens,2094118
+state,chhattisgarh,2021,4,registeredUsers,5565481
+state,chhattisgarh,2021,4,appOpens,251752583
+state,jammu & kashmir,2021,4,registeredUsers,1456810
+state,jammu & kashmir,2021,4,appOpens,36012148
+state,goa,2021,4,registeredUsers,697178
+state,goa,2021,4,appOpens,28288254
+state,arunachal pradesh,2021,4,registeredUsers,314944
+state,arunachal pradesh,2021,4,appOpens,11230295
+state,delhi,2021,4,registeredUsers,12785127
+state,delhi,2021,4,appOpens,345669353
+state,uttarakhand,2021,4,registeredUsers,3460015
+state,uttarakhand,2021,4,appOpens,110928354
+state,puducherry,2022,1,registeredUsers,448051
+state,puducherry,2022,1,appOpens,3938657
+state,tamil nadu,2022,1,registeredUsers,21667020
+state,tamil nadu,2022,1,appOpens,638490275
+state,uttar pradesh,2022,1,registeredUsers,38999692
+state,uttar pradesh,2022,1,appOpens,836926025
+state,madhya pradesh,2022,1,registeredUsers,19656147
+state,madhya pradesh,2022,1,appOpens,1678266475
+state,andhra pradesh,2022,1,registeredUsers,23857951
+state,andhra pradesh,2022,1,appOpens,1254785973
+state,tripura,2022,1,registeredUsers,582124
+state,tripura,2022,1,appOpens,19322963
+state,lakshadweep,2022,1,registeredUsers,5990
+state,lakshadweep,2022,1,appOpens,45410
+state,manipur,2022,1,registeredUsers,411900
+state,manipur,2022,1,appOpens,22637747
+state,maharashtra,2022,1,registeredUsers,48227630
+state,maharashtra,2022,1,appOpens,2157769514
+state,dadra & nagar haveli & daman & diu,2022,1,registeredUsers,424570
+state,dadra & nagar haveli & daman & diu,2022,1,appOpens,3910792
+state,meghalaya,2022,1,registeredUsers,255839
+state,meghalaya,2022,1,appOpens,23634106
+state,andaman & nicobar islands,2022,1,registeredUsers,76288
+state,andaman & nicobar islands,2022,1,appOpens,3847407
+state,haryana,2022,1,registeredUsers,12866988
+state,haryana,2022,1,appOpens,217228467
+state,rajasthan,2022,1,registeredUsers,23398857
+state,rajasthan,2022,1,appOpens,2570606469
+state,ladakh,2022,1,registeredUsers,92492
+state,ladakh,2022,1,appOpens,8902080
+state,punjab,2022,1,registeredUsers,7302726
+state,punjab,2022,1,appOpens,117482807
+state,assam,2022,1,registeredUsers,4492589
+state,assam,2022,1,appOpens,281642453
+state,jharkhand,2022,1,registeredUsers,7025275
+state,jharkhand,2022,1,appOpens,331355981
+state,odisha,2022,1,registeredUsers,12124779
+state,odisha,2022,1,appOpens,613855465
+state,bihar,2022,1,registeredUsers,18484658
+state,bihar,2022,1,appOpens,316991599
+state,kerala,2022,1,registeredUsers,8972299
+state,kerala,2022,1,appOpens,94047893
+state,karnataka,2022,1,registeredUsers,31200349
+state,karnataka,2022,1,appOpens,1727054045
+state,chandigarh,2022,1,registeredUsers,541549
+state,chandigarh,2022,1,appOpens,2321685
+state,telangana,2022,1,registeredUsers,22150612
+state,telangana,2022,1,appOpens,1168864524
+state,himachal pradesh,2022,1,registeredUsers,2143483
+state,himachal pradesh,2022,1,appOpens,77278278
+state,west bengal,2022,1,registeredUsers,21919787
+state,west bengal,2022,1,appOpens,236131065
+state,gujarat,2022,1,registeredUsers,19265314
+state,gujarat,2022,1,appOpens,521776939
+state,sikkim,2022,1,registeredUsers,209616
+state,sikkim,2022,1,appOpens,12440193
+state,nagaland,2022,1,registeredUsers,276483
+state,nagaland,2022,1,appOpens,24206053
+state,mizoram,2022,1,registeredUsers,115295
+state,mizoram,2022,1,appOpens,14886657
+state,chhattisgarh,2022,1,registeredUsers,5916961
+state,chhattisgarh,2022,1,appOpens,448503438
+state,jammu & kashmir,2022,1,registeredUsers,1549320
+state,jammu & kashmir,2022,1,appOpens,62115857
+state,goa,2022,1,registeredUsers,738628
+state,goa,2022,1,appOpens,18678798
+state,arunachal pradesh,2022,1,registeredUsers,335339
+state,arunachal pradesh,2022,1,appOpens,41418559
+state,delhi,2022,1,registeredUsers,13539197
+state,delhi,2022,1,appOpens,57524153
+state,uttarakhand,2022,1,registeredUsers,3674829
+state,uttarakhand,2022,1,appOpens,115224382
+state,puducherry,2022,2,registeredUsers,471663
+state,puducherry,2022,2,appOpens,3830290
+state,tamil nadu,2022,2,registeredUsers,22829720
+state,tamil nadu,2022,2,appOpens,740265406
+state,uttar pradesh,2022,2,registeredUsers,41247289
+state,uttar pradesh,2022,2,appOpens,947480495
+state,madhya pradesh,2022,2,registeredUsers,20766417
+state,madhya pradesh,2022,2,appOpens,1902866132
+state,andhra pradesh,2022,2,registeredUsers,25157264
+state,andhra pradesh,2022,2,appOpens,1378736856
+state,tripura,2022,2,registeredUsers,615782
+state,tripura,2022,2,appOpens,21343111
+state,lakshadweep,2022,2,registeredUsers,6327
+state,lakshadweep,2022,2,appOpens,38450
+state,manipur,2022,2,registeredUsers,434563
+state,manipur,2022,2,appOpens,26236900
+state,maharashtra,2022,2,registeredUsers,50802786
+state,maharashtra,2022,2,appOpens,2492946019
+state,dadra & nagar haveli & daman & diu,2022,2,registeredUsers,449016
+state,dadra & nagar haveli & daman & diu,2022,2,appOpens,3886292
+state,meghalaya,2022,2,registeredUsers,269943
+state,meghalaya,2022,2,appOpens,27458992
+state,andaman & nicobar islands,2022,2,registeredUsers,80530
+state,andaman & nicobar islands,2022,2,appOpens,5180013
+state,haryana,2022,2,registeredUsers,13576065
+state,haryana,2022,2,appOpens,236091309
+state,rajasthan,2022,2,registeredUsers,24716181
+state,rajasthan,2022,2,appOpens,2771434947
+state,ladakh,2022,2,registeredUsers,97517
+state,ladakh,2022,2,appOpens,14768129
+state,punjab,2022,2,registeredUsers,7702100
+state,punjab,2022,2,appOpens,138965337
+state,assam,2022,2,registeredUsers,4755787
+state,assam,2022,2,appOpens,339929089
+state,jharkhand,2022,2,registeredUsers,7426174
+state,jharkhand,2022,2,appOpens,379053485
+state,odisha,2022,2,registeredUsers,12801990
+state,odisha,2022,2,appOpens,670311093
+state,bihar,2022,2,registeredUsers,19569894
+state,bihar,2022,2,appOpens,348588438
+state,kerala,2022,2,registeredUsers,9442533
+state,kerala,2022,2,appOpens,98876392
+state,karnataka,2022,2,registeredUsers,32831447
+state,karnataka,2022,2,appOpens,2065359837
+state,chandigarh,2022,2,registeredUsers,569582
+state,chandigarh,2022,2,appOpens,2285979
+state,telangana,2022,2,registeredUsers,23314363
+state,telangana,2022,2,appOpens,1276259370
+state,himachal pradesh,2022,2,registeredUsers,2264407
+state,himachal pradesh,2022,2,appOpens,102488683
+state,west bengal,2022,2,registeredUsers,23124388
+state,west bengal,2022,2,appOpens,250276369
+state,gujarat,2022,2,registeredUsers,20321596
+state,gujarat,2022,2,appOpens,609943436
+state,sikkim,2022,2,registeredUsers,220994
+state,sikkim,2022,2,appOpens,16993937
+state,nagaland,2022,2,registeredUsers,292104
+state,nagaland,2022,2,appOpens,28652431
+state,mizoram,2022,2,registeredUsers,121535
+state,mizoram,2022,2,appOpens,16646550
+state,chhattisgarh,2022,2,registeredUsers,6238349
+state,chhattisgarh,2022,2,appOpens,501411120
+state,jammu & kashmir,2022,2,registeredUsers,1635570
+state,jammu & kashmir,2022,2,appOpens,89986310
+state,goa,2022,2,registeredUsers,777779
+state,goa,2022,2,appOpens,19062157
+state,arunachal pradesh,2022,2,registeredUsers,354528
+state,arunachal pradesh,2022,2,appOpens,49889518
+state,delhi,2022,2,registeredUsers,14260143
+state,delhi,2022,2,appOpens,52553080
+state,uttarakhand,2022,2,registeredUsers,3877056
+state,uttarakhand,2022,2,appOpens,156465685
+state,puducherry,2022,3,registeredUsers,496570
+state,puducherry,2022,3,appOpens,4186911
+state,tamil nadu,2022,3,registeredUsers,24019964
+state,tamil nadu,2022,3,appOpens,866738343
+state,uttar pradesh,2022,3,registeredUsers,43537920
+state,uttar pradesh,2022,3,appOpens,1035702397
+state,madhya pradesh,2022,3,registeredUsers,21884220
+state,madhya pradesh,2022,3,appOpens,2026371749
+state,andhra pradesh,2022,3,registeredUsers,26496330
+state,andhra pradesh,2022,3,appOpens,1357005703
+state,tripura,2022,3,registeredUsers,649143
+state,tripura,2022,3,appOpens,24123569
+state,lakshadweep,2022,3,registeredUsers,6645
+state,lakshadweep,2022,3,appOpens,18111
+state,manipur,2022,3,registeredUsers,457063
+state,manipur,2022,3,appOpens,26011343
+state,maharashtra,2022,3,registeredUsers,53432602
+state,maharashtra,2022,3,appOpens,2638663712
+state,dadra & nagar haveli & daman & diu,2022,3,registeredUsers,474807
+state,dadra & nagar haveli & daman & diu,2022,3,appOpens,3837881
+state,meghalaya,2022,3,registeredUsers,283487
+state,meghalaya,2022,3,appOpens,32596135
+state,andaman & nicobar islands,2022,3,registeredUsers,84642
+state,andaman & nicobar islands,2022,3,appOpens,6068354
+state,haryana,2022,3,registeredUsers,14303933
+state,haryana,2022,3,appOpens,265475161
+state,rajasthan,2022,3,registeredUsers,26042948
+state,rajasthan,2022,3,appOpens,3299787866
+state,ladakh,2022,3,registeredUsers,102299
+state,ladakh,2022,3,appOpens,19734781
+state,punjab,2022,3,registeredUsers,8097582
+state,punjab,2022,3,appOpens,154625731
+state,assam,2022,3,registeredUsers,5016910
+state,assam,2022,3,appOpens,410760707
+state,jharkhand,2022,3,registeredUsers,7836429
+state,jharkhand,2022,3,appOpens,414228860
+state,odisha,2022,3,registeredUsers,13493282
+state,odisha,2022,3,appOpens,725475924
+state,bihar,2022,3,registeredUsers,20694376
+state,bihar,2022,3,appOpens,336807385
+state,kerala,2022,3,registeredUsers,9933977
+state,kerala,2022,3,appOpens,104565833
+state,karnataka,2022,3,registeredUsers,34493994
+state,karnataka,2022,3,appOpens,2148016434
+state,chandigarh,2022,3,registeredUsers,598698
+state,chandigarh,2022,3,appOpens,2173356
+state,telangana,2022,3,registeredUsers,24506111
+state,telangana,2022,3,appOpens,1255597644
+state,himachal pradesh,2022,3,registeredUsers,2381576
+state,himachal pradesh,2022,3,appOpens,108832538
+state,west bengal,2022,3,registeredUsers,24372048
+state,west bengal,2022,3,appOpens,256445748
+state,gujarat,2022,3,registeredUsers,21394721
+state,gujarat,2022,3,appOpens,699121904
+state,sikkim,2022,3,registeredUsers,232025
+state,sikkim,2022,3,appOpens,18748536
+state,nagaland,2022,3,registeredUsers,307386
+state,nagaland,2022,3,appOpens,31229366
+state,mizoram,2022,3,registeredUsers,127735
+state,mizoram,2022,3,appOpens,15557163
+state,chhattisgarh,2022,3,registeredUsers,6562237
+state,chhattisgarh,2022,3,appOpens,543206487
+state,jammu & kashmir,2022,3,registeredUsers,1719185
+state,jammu & kashmir,2022,3,appOpens,109346235
+state,goa,2022,3,registeredUsers,817830
+state,goa,2022,3,appOpens,19712764
+state,arunachal pradesh,2022,3,registeredUsers,373372
+state,arunachal pradesh,2022,3,appOpens,59722628
+state,delhi,2022,3,registeredUsers,15009523
+state,delhi,2022,3,appOpens,49919498
+state,uttarakhand,2022,3,registeredUsers,4081976
+state,uttarakhand,2022,3,appOpens,152803850
+state,puducherry,2022,4,registeredUsers,520649
+state,puducherry,2022,4,appOpens,24144184
+state,tamil nadu,2022,4,registeredUsers,25136112
+state,tamil nadu,2022,4,appOpens,1229187623
+state,uttar pradesh,2022,4,registeredUsers,45648650
+state,uttar pradesh,2022,4,appOpens,1682003791
+state,madhya pradesh,2022,4,registeredUsers,22913924
+state,madhya pradesh,2022,4,appOpens,1388282818
+state,andhra pradesh,2022,4,registeredUsers,27778016
+state,andhra pradesh,2022,4,appOpens,1673374802
+state,tripura,2022,4,registeredUsers,678741
+state,tripura,2022,4,appOpens,16107610
+state,lakshadweep,2022,4,registeredUsers,6961
+state,lakshadweep,2022,4,appOpens,72377
+state,manipur,2022,4,registeredUsers,477292
+state,manipur,2022,4,appOpens,12462732
+state,maharashtra,2022,4,registeredUsers,55954028
+state,maharashtra,2022,4,appOpens,2982202696
+state,dadra & nagar haveli & daman & diu,2022,4,registeredUsers,500125
+state,dadra & nagar haveli & daman & diu,2022,4,appOpens,24066770
+state,meghalaya,2022,4,registeredUsers,295322
+state,meghalaya,2022,4,appOpens,10105924
+state,andaman & nicobar islands,2022,4,registeredUsers,88442
+state,andaman & nicobar islands,2022,4,appOpens,4354093
+state,haryana,2022,4,registeredUsers,14994944
+state,haryana,2022,4,appOpens,556898878
+state,rajasthan,2022,4,registeredUsers,27255927
+state,rajasthan,2022,4,appOpens,1537424924
+state,ladakh,2022,4,registeredUsers,106337
+state,ladakh,2022,4,appOpens,3832339
+state,punjab,2022,4,registeredUsers,8462753
+state,punjab,2022,4,appOpens,199899443
+state,assam,2022,4,registeredUsers,5247776
+state,assam,2022,4,appOpens,248781157
+state,jharkhand,2022,4,registeredUsers,8217638
+state,jharkhand,2022,4,appOpens,396098729
+state,odisha,2022,4,registeredUsers,14127239
+state,odisha,2022,4,appOpens,726099254
+state,bihar,2022,4,registeredUsers,21738117
+state,bihar,2022,4,appOpens,834827202
+state,kerala,2022,4,registeredUsers,10382102
+state,kerala,2022,4,appOpens,346981849
+state,karnataka,2022,4,registeredUsers,36081698
+state,karnataka,2022,4,appOpens,3011645011
+state,chandigarh,2022,4,registeredUsers,627563
+state,chandigarh,2022,4,appOpens,15308862
+state,telangana,2022,4,registeredUsers,25656381
+state,telangana,2022,4,appOpens,1731228513
+state,himachal pradesh,2022,4,registeredUsers,2483076
+state,himachal pradesh,2022,4,appOpens,72355717
+state,west bengal,2022,4,registeredUsers,25536381
+state,west bengal,2022,4,appOpens,678066327
+state,gujarat,2022,4,registeredUsers,22412353
+state,gujarat,2022,4,appOpens,790984595
+state,sikkim,2022,4,registeredUsers,241968
+state,sikkim,2022,4,appOpens,8948864
+state,nagaland,2022,4,registeredUsers,321205
+state,nagaland,2022,4,appOpens,11171582
+state,mizoram,2022,4,registeredUsers,132870
+state,mizoram,2022,4,appOpens,3144551
+state,chhattisgarh,2022,4,registeredUsers,6846822
+state,chhattisgarh,2022,4,appOpens,354976814
+state,jammu & kashmir,2022,4,registeredUsers,1793434
+state,jammu & kashmir,2022,4,appOpens,60205865
+state,goa,2022,4,registeredUsers,855202
+state,goa,2022,4,appOpens,43005212
+state,arunachal pradesh,2022,4,registeredUsers,390307
+state,arunachal pradesh,2022,4,appOpens,21775038
+state,delhi,2022,4,registeredUsers,15764149
+state,delhi,2022,4,appOpens,401864749
+state,uttarakhand,2022,4,registeredUsers,4272049
+state,uttarakhand,2022,4,appOpens,160685547
+state,puducherry,2023,1,registeredUsers,543819
+state,puducherry,2023,1,appOpens,3498429
+state,tamil nadu,2023,1,registeredUsers,26270663
+state,tamil nadu,2023,1,appOpens,989061650
+state,uttar pradesh,2023,1,registeredUsers,47806049
+state,uttar pradesh,2023,1,appOpens,1401343916
+state,madhya pradesh,2023,1,registeredUsers,24002818
+state,madhya pradesh,2023,1,appOpens,2588256407
+state,andhra pradesh,2023,1,registeredUsers,29065863
+state,andhra pradesh,2023,1,appOpens,1442038420
+state,tripura,2023,1,registeredUsers,710884
+state,tripura,2023,1,appOpens,29736641
+state,lakshadweep,2023,1,registeredUsers,7267
+state,lakshadweep,2023,1,appOpens,43821
+state,manipur,2023,1,registeredUsers,498337
+state,manipur,2023,1,appOpens,29419074
+state,maharashtra,2023,1,registeredUsers,58470784
+state,maharashtra,2023,1,appOpens,3144152925
+state,dadra & nagar haveli & daman & diu,2023,1,registeredUsers,524617
+state,dadra & nagar haveli & daman & diu,2023,1,appOpens,4471284
+state,meghalaya,2023,1,registeredUsers,308324
+state,meghalaya,2023,1,appOpens,44686919
+state,andaman & nicobar islands,2023,1,registeredUsers,92484
+state,andaman & nicobar islands,2023,1,appOpens,11012664
+state,haryana,2023,1,registeredUsers,15688161
+state,haryana,2023,1,appOpens,264946266
+state,rajasthan,2023,1,registeredUsers,28523031
+state,rajasthan,2023,1,appOpens,3711332541
+state,ladakh,2023,1,registeredUsers,110991
+state,ladakh,2023,1,appOpens,14522495
+state,punjab,2023,1,registeredUsers,8837408
+state,punjab,2023,1,appOpens,177418342
+state,assam,2023,1,registeredUsers,5499650
+state,assam,2023,1,appOpens,590176321
+state,jharkhand,2023,1,registeredUsers,8609107
+state,jharkhand,2023,1,appOpens,585808867
+state,odisha,2023,1,registeredUsers,14787083
+state,odisha,2023,1,appOpens,929487633
+state,bihar,2023,1,registeredUsers,22796011
+state,bihar,2023,1,appOpens,455886560
+state,kerala,2023,1,registeredUsers,10822723
+state,kerala,2023,1,appOpens,116395880
+state,karnataka,2023,1,registeredUsers,37681426
+state,karnataka,2023,1,appOpens,2498025288
+state,chandigarh,2023,1,registeredUsers,654522
+state,chandigarh,2023,1,appOpens,2001065
+state,telangana,2023,1,registeredUsers,26804259
+state,telangana,2023,1,appOpens,1305656447
+state,himachal pradesh,2023,1,registeredUsers,2594668
+state,himachal pradesh,2023,1,appOpens,111702044
+state,west bengal,2023,1,registeredUsers,26732895
+state,west bengal,2023,1,appOpens,321102681
+state,gujarat,2023,1,registeredUsers,23436230
+state,gujarat,2023,1,appOpens,918468944
+state,sikkim,2023,1,registeredUsers,252440
+state,sikkim,2023,1,appOpens,18927227
+state,nagaland,2023,1,registeredUsers,335936
+state,nagaland,2023,1,appOpens,35227154
+state,mizoram,2023,1,registeredUsers,138751
+state,mizoram,2023,1,appOpens,24403694
+state,chhattisgarh,2023,1,registeredUsers,7159660
+state,chhattisgarh,2023,1,appOpens,678798431
+state,jammu & kashmir,2023,1,registeredUsers,1873039
+state,jammu & kashmir,2023,1,appOpens,134828711
+state,goa,2023,1,registeredUsers,892185
+state,goa,2023,1,appOpens,22829931
+state,arunachal pradesh,2023,1,registeredUsers,408273
+state,arunachal pradesh,2023,1,appOpens,88997458
+state,delhi,2023,1,registeredUsers,16480011
+state,delhi,2023,1,appOpens,51049789
+state,uttarakhand,2023,1,registeredUsers,4464369
+state,uttarakhand,2023,1,appOpens,181738693
+state,puducherry,2023,2,registeredUsers,564431
+state,puducherry,2023,2,appOpens,3817041
+state,tamil nadu,2023,2,registeredUsers,27317599
+state,tamil nadu,2023,2,appOpens,991611987
+state,uttar pradesh,2023,2,registeredUsers,49829833
+state,uttar pradesh,2023,2,appOpens,1731600947
+state,madhya pradesh,2023,2,registeredUsers,25042930
+state,madhya pradesh,2023,2,appOpens,2945628722
+state,andhra pradesh,2023,2,registeredUsers,30240061
+state,andhra pradesh,2023,2,appOpens,1427952434
+state,tripura,2023,2,registeredUsers,743024
+state,tripura,2023,2,appOpens,30819207
+state,lakshadweep,2023,2,registeredUsers,7585
+state,lakshadweep,2023,2,appOpens,90501
+state,manipur,2023,2,registeredUsers,519799
+state,manipur,2023,2,appOpens,14076037
+state,maharashtra,2023,2,registeredUsers,60766850
+state,maharashtra,2023,2,appOpens,3363859330
+state,dadra & nagar haveli & daman & diu,2023,2,registeredUsers,546364
+state,dadra & nagar haveli & daman & diu,2023,2,appOpens,4086025
+state,meghalaya,2023,2,registeredUsers,322382
+state,meghalaya,2023,2,appOpens,47337234
+state,andaman & nicobar islands,2023,2,registeredUsers,96329
+state,andaman & nicobar islands,2023,2,appOpens,14738676
+state,haryana,2023,2,registeredUsers,16314236
+state,haryana,2023,2,appOpens,298037706
+state,rajasthan,2023,2,registeredUsers,29745609
+state,rajasthan,2023,2,appOpens,4033000288
+state,ladakh,2023,2,registeredUsers,115736
+state,ladakh,2023,2,appOpens,26285520
+state,punjab,2023,2,registeredUsers,9197055
+state,punjab,2023,2,appOpens,218492661
+state,assam,2023,2,registeredUsers,5749682
+state,assam,2023,2,appOpens,657069673
+state,jharkhand,2023,2,registeredUsers,8980709
+state,jharkhand,2023,2,appOpens,657119942
+state,odisha,2023,2,registeredUsers,15420061
+state,odisha,2023,2,appOpens,918449931
+state,bihar,2023,2,registeredUsers,23781971
+state,bihar,2023,2,appOpens,556071386
+state,kerala,2023,2,registeredUsers,11237341
+state,kerala,2023,2,appOpens,121310794
+state,karnataka,2023,2,registeredUsers,39122314
+state,karnataka,2023,2,appOpens,2521576765
+state,chandigarh,2023,2,registeredUsers,678662
+state,chandigarh,2023,2,appOpens,1978988
+state,telangana,2023,2,registeredUsers,27814633
+state,telangana,2023,2,appOpens,1339967792
+state,himachal pradesh,2023,2,registeredUsers,2706470
+state,himachal pradesh,2023,2,appOpens,136774775
+state,west bengal,2023,2,registeredUsers,27827662
+state,west bengal,2023,2,appOpens,350862668
+state,gujarat,2023,2,registeredUsers,24396768
+state,gujarat,2023,2,appOpens,1057626015
+state,sikkim,2023,2,registeredUsers,262728
+state,sikkim,2023,2,appOpens,28470875
+state,nagaland,2023,2,registeredUsers,351024
+state,nagaland,2023,2,appOpens,33612080
+state,mizoram,2023,2,registeredUsers,145061
+state,mizoram,2023,2,appOpens,21868647
+state,chhattisgarh,2023,2,registeredUsers,7469508
+state,chhattisgarh,2023,2,appOpens,749111705
+state,jammu & kashmir,2023,2,registeredUsers,1953132
+state,jammu & kashmir,2023,2,appOpens,209249141
+state,goa,2023,2,registeredUsers,926020
+state,goa,2023,2,appOpens,20219644
+state,arunachal pradesh,2023,2,registeredUsers,426410
+state,arunachal pradesh,2023,2,appOpens,106089520
+state,delhi,2023,2,registeredUsers,17103089
+state,delhi,2023,2,appOpens,51415039
+state,uttarakhand,2023,2,registeredUsers,4645322
+state,uttarakhand,2023,2,appOpens,240804293
+state,puducherry,2023,3,registeredUsers,586550
+state,puducherry,2023,3,appOpens,4653693
+state,tamil nadu,2023,3,registeredUsers,28405436
+state,tamil nadu,2023,3,appOpens,1117719858
+state,uttar pradesh,2023,3,registeredUsers,51870932
+state,uttar pradesh,2023,3,appOpens,2143192720
+state,madhya pradesh,2023,3,registeredUsers,26109033
+state,madhya pradesh,2023,3,appOpens,3495164168
+state,andhra pradesh,2023,3,registeredUsers,31493897
+state,andhra pradesh,2023,3,appOpens,1157440497
+state,tripura,2023,3,registeredUsers,774678
+state,tripura,2023,3,appOpens,49942954
+state,lakshadweep,2023,3,registeredUsers,7912
+state,lakshadweep,2023,3,appOpens,294406
+state,manipur,2023,3,registeredUsers,541572
+state,manipur,2023,3,appOpens,20694295
+state,maharashtra,2023,3,registeredUsers,63150997
+state,maharashtra,2023,3,appOpens,3152984827
+state,dadra & nagar haveli & daman & diu,2023,3,registeredUsers,569035
+state,dadra & nagar haveli & daman & diu,2023,3,appOpens,4449513
+state,meghalaya,2023,3,registeredUsers,336282
+state,meghalaya,2023,3,appOpens,75055865
+state,andaman & nicobar islands,2023,3,registeredUsers,100255
+state,andaman & nicobar islands,2023,3,appOpens,20545079
+state,haryana,2023,3,registeredUsers,16956489
+state,haryana,2023,3,appOpens,327497074
+state,rajasthan,2023,3,registeredUsers,30997182
+state,rajasthan,2023,3,appOpens,4359306863
+state,ladakh,2023,3,registeredUsers,120435
+state,ladakh,2023,3,appOpens,42636030
+state,punjab,2023,3,registeredUsers,9555997
+state,punjab,2023,3,appOpens,337107656
+state,assam,2023,3,registeredUsers,5998586
+state,assam,2023,3,appOpens,962849913
+state,jharkhand,2023,3,registeredUsers,9360730
+state,jharkhand,2023,3,appOpens,806517236
+state,odisha,2023,3,registeredUsers,16064459
+state,odisha,2023,3,appOpens,1002230051
+state,bihar,2023,3,registeredUsers,24776510
+state,bihar,2023,3,appOpens,623923391
+state,kerala,2023,3,registeredUsers,11669143
+state,kerala,2023,3,appOpens,145044427
+state,karnataka,2023,3,registeredUsers,40634390
+state,karnataka,2023,3,appOpens,2284389284
+state,chandigarh,2023,3,registeredUsers,704144
+state,chandigarh,2023,3,appOpens,1924922
+state,telangana,2023,3,registeredUsers,28896668
+state,telangana,2023,3,appOpens,993742805
+state,himachal pradesh,2023,3,registeredUsers,2816046
+state,himachal pradesh,2023,3,appOpens,189307777
+state,west bengal,2023,3,registeredUsers,28966414
+state,west bengal,2023,3,appOpens,473450373
+state,gujarat,2023,3,registeredUsers,25383429
+state,gujarat,2023,3,appOpens,1679035143
+state,sikkim,2023,3,registeredUsers,272829
+state,sikkim,2023,3,appOpens,34906306
+state,nagaland,2023,3,registeredUsers,366203
+state,nagaland,2023,3,appOpens,51985056
+state,mizoram,2023,3,registeredUsers,151378
+state,mizoram,2023,3,appOpens,29019443
+state,chhattisgarh,2023,3,registeredUsers,7779977
+state,chhattisgarh,2023,3,appOpens,951586898
+state,jammu & kashmir,2023,3,registeredUsers,2031447
+state,jammu & kashmir,2023,3,appOpens,283204829
+state,goa,2023,3,registeredUsers,961831
+state,goa,2023,3,appOpens,24017714
+state,arunachal pradesh,2023,3,registeredUsers,444789
+state,arunachal pradesh,2023,3,appOpens,112236680
+state,delhi,2023,3,registeredUsers,17747167
+state,delhi,2023,3,appOpens,49593289
+state,uttarakhand,2023,3,registeredUsers,4829992
+state,uttarakhand,2023,3,appOpens,217340168
+state,puducherry,2023,4,registeredUsers,607838
+state,puducherry,2023,4,appOpens,32182677
+state,tamil nadu,2023,4,registeredUsers,29452801
+state,tamil nadu,2023,4,appOpens,1831285792
+state,uttar pradesh,2023,4,registeredUsers,53799813
+state,uttar pradesh,2023,4,appOpens,3620813944
+state,madhya pradesh,2023,4,registeredUsers,27078072
+state,madhya pradesh,2023,4,appOpens,1780548760
+state,andhra pradesh,2023,4,registeredUsers,32658698
+state,andhra pradesh,2023,4,appOpens,1310002959
+state,tripura,2023,4,registeredUsers,806344
+state,tripura,2023,4,appOpens,43591962
+state,lakshadweep,2023,4,registeredUsers,8225
+state,lakshadweep,2023,4,appOpens,924554
+state,manipur,2023,4,registeredUsers,564130
+state,manipur,2023,4,appOpens,25551545
+state,maharashtra,2023,4,registeredUsers,65422120
+state,maharashtra,2023,4,appOpens,3694003155
+state,dadra & nagar haveli & daman & diu,2023,4,registeredUsers,590760
+state,dadra & nagar haveli & daman & diu,2023,4,appOpens,36579378
+state,meghalaya,2023,4,registeredUsers,349330
+state,meghalaya,2023,4,appOpens,30357626
+state,andaman & nicobar islands,2023,4,registeredUsers,103978
+state,andaman & nicobar islands,2023,4,appOpens,9845960
+state,haryana,2023,4,registeredUsers,17556642
+state,haryana,2023,4,appOpens,904482321
+state,rajasthan,2023,4,registeredUsers,32157348
+state,rajasthan,2023,4,appOpens,1905645600
+state,ladakh,2023,4,registeredUsers,124828
+state,ladakh,2023,4,appOpens,7108123
+state,punjab,2023,4,registeredUsers,9898002
+state,punjab,2023,4,appOpens,605806581
+state,assam,2023,4,registeredUsers,6234780
+state,assam,2023,4,appOpens,558041955
+state,jharkhand,2023,4,registeredUsers,9707336
+state,jharkhand,2023,4,appOpens,658553048
+state,odisha,2023,4,registeredUsers,16680992
+state,odisha,2023,4,appOpens,701305081
+state,bihar,2023,4,registeredUsers,25695856
+state,bihar,2023,4,appOpens,1822737403
+state,kerala,2023,4,registeredUsers,12084974
+state,kerala,2023,4,appOpens,747303653
+state,karnataka,2023,4,registeredUsers,42031396
+state,karnataka,2023,4,appOpens,2565539566
+state,chandigarh,2023,4,registeredUsers,727594
+state,chandigarh,2023,4,appOpens,35719991
+state,telangana,2023,4,registeredUsers,29902636
+state,telangana,2023,4,appOpens,1520428750
+state,himachal pradesh,2023,4,registeredUsers,2924952
+state,himachal pradesh,2023,4,appOpens,163694473
+state,west bengal,2023,4,registeredUsers,30064546
+state,west bengal,2023,4,appOpens,1467442959
+state,gujarat,2023,4,registeredUsers,26312655
+state,gujarat,2023,4,appOpens,1950081065
+state,sikkim,2023,4,registeredUsers,282575
+state,sikkim,2023,4,appOpens,15838198
+state,nagaland,2023,4,registeredUsers,381162
+state,nagaland,2023,4,appOpens,20169002
+state,mizoram,2023,4,registeredUsers,157627
+state,mizoram,2023,4,appOpens,9424810
+state,chhattisgarh,2023,4,registeredUsers,8057016
+state,chhattisgarh,2023,4,appOpens,545124233
+state,jammu & kashmir,2023,4,registeredUsers,2108166
+state,jammu & kashmir,2023,4,appOpens,186302862
+state,goa,2023,4,registeredUsers,995923
+state,goa,2023,4,appOpens,64868903
+state,arunachal pradesh,2023,4,registeredUsers,462088
+state,arunachal pradesh,2023,4,appOpens,38873546
+state,delhi,2023,4,registeredUsers,18363626
+state,delhi,2023,4,appOpens,738806624
+state,uttarakhand,2023,4,registeredUsers,5001826
+state,uttarakhand,2023,4,appOpens,287470297
+state,puducherry,2024,1,registeredUsers,631663
+state,puducherry,2024,1,appOpens,3299001
+state,tamil nadu,2024,1,registeredUsers,30638750
+state,tamil nadu,2024,1,appOpens,1089065562
+state,uttar pradesh,2024,1,registeredUsers,56028765
+state,uttar pradesh,2024,1,appOpens,3113045884
+state,madhya pradesh,2024,1,registeredUsers,28238554
+state,madhya pradesh,2024,1,appOpens,4395383187
+state,andhra pradesh,2024,1,registeredUsers,34008709
+state,andhra pradesh,2024,1,appOpens,1080185103
+state,tripura,2024,1,registeredUsers,842135
+state,tripura,2024,1,appOpens,81407836
+state,lakshadweep,2024,1,registeredUsers,8578
+state,lakshadweep,2024,1,appOpens,645375
+state,manipur,2024,1,registeredUsers,589568
+state,manipur,2024,1,appOpens,59758762
+state,maharashtra,2024,1,registeredUsers,68016876
+state,maharashtra,2024,1,appOpens,3226964743
+state,dadra & nagar haveli & daman & diu,2024,1,registeredUsers,615863
+state,dadra & nagar haveli & daman & diu,2024,1,appOpens,5967100
+state,meghalaya,2024,1,registeredUsers,365452
+state,meghalaya,2024,1,appOpens,207128767
+state,andaman & nicobar islands,2024,1,registeredUsers,108411
+state,andaman & nicobar islands,2024,1,appOpens,28538751
+state,haryana,2024,1,registeredUsers,18248263
+state,haryana,2024,1,appOpens,356852975
+state,rajasthan,2024,1,registeredUsers,33505514
+state,rajasthan,2024,1,appOpens,4728118557
+state,ladakh,2024,1,registeredUsers,130070
+state,ladakh,2024,1,appOpens,16503075
+state,punjab,2024,1,registeredUsers,10286964
+state,punjab,2024,1,appOpens,448478973
+state,assam,2024,1,registeredUsers,6510156
+state,assam,2024,1,appOpens,1381009332
+state,jharkhand,2024,1,registeredUsers,10118149
+state,jharkhand,2024,1,appOpens,1389086946
+state,odisha,2024,1,registeredUsers,17393166
+state,odisha,2024,1,appOpens,1247351109
+state,bihar,2024,1,registeredUsers,26765201
+state,bihar,2024,1,appOpens,945228349
+state,kerala,2024,1,registeredUsers,12553296
+state,kerala,2024,1,appOpens,173276966
+state,karnataka,2024,1,registeredUsers,43668141
+state,karnataka,2024,1,appOpens,2186015502
+state,chandigarh,2024,1,registeredUsers,754849
+state,chandigarh,2024,1,appOpens,2680802
+state,telangana,2024,1,registeredUsers,31082447
+state,telangana,2024,1,appOpens,933319286
+state,himachal pradesh,2024,1,registeredUsers,3050141
+state,himachal pradesh,2024,1,appOpens,231634797
+state,west bengal,2024,1,registeredUsers,31306843
+state,west bengal,2024,1,appOpens,633526507
+state,gujarat,2024,1,registeredUsers,27381972
+state,gujarat,2024,1,appOpens,2391800188
+state,sikkim,2024,1,registeredUsers,293821
+state,sikkim,2024,1,appOpens,19584360
+state,nagaland,2024,1,registeredUsers,398630
+state,nagaland,2024,1,appOpens,46485081
+state,mizoram,2024,1,registeredUsers,165126
+state,mizoram,2024,1,appOpens,50294364
+state,chhattisgarh,2024,1,registeredUsers,8394140
+state,chhattisgarh,2024,1,appOpens,1290951432
+state,jammu & kashmir,2024,1,registeredUsers,2195803
+state,jammu & kashmir,2024,1,appOpens,342579321
+state,goa,2024,1,registeredUsers,1035050
+state,goa,2024,1,appOpens,31168316
+state,arunachal pradesh,2024,1,registeredUsers,482393
+state,arunachal pradesh,2024,1,appOpens,143597043
+state,delhi,2024,1,registeredUsers,19067147
+state,delhi,2024,1,appOpens,80302941
+state,uttarakhand,2024,1,registeredUsers,5202251
+state,uttarakhand,2024,1,appOpens,264812749
+state,puducherry,2024,2,registeredUsers,655486
+state,puducherry,2024,2,appOpens,2882669
+state,tamil nadu,2024,2,registeredUsers,31818880
+state,tamil nadu,2024,2,appOpens,1071832085
+state,uttar pradesh,2024,2,registeredUsers,58199149
+state,uttar pradesh,2024,2,appOpens,3406733148
+state,madhya pradesh,2024,2,registeredUsers,29324466
+state,madhya pradesh,2024,2,appOpens,4877924433
+state,andhra pradesh,2024,2,registeredUsers,35303719
+state,andhra pradesh,2024,2,appOpens,1061281082
+state,tripura,2024,2,registeredUsers,876724
+state,tripura,2024,2,appOpens,97341017
+state,lakshadweep,2024,2,registeredUsers,8895
+state,lakshadweep,2024,2,appOpens,683424
+state,manipur,2024,2,registeredUsers,614446
+state,manipur,2024,2,appOpens,59706780
+state,maharashtra,2024,2,registeredUsers,70597223
+state,maharashtra,2024,2,appOpens,3406640277
+state,dadra & nagar haveli & daman & diu,2024,2,registeredUsers,640724
+state,dadra & nagar haveli & daman & diu,2024,2,appOpens,7489619
+state,meghalaya,2024,2,registeredUsers,379342
+state,meghalaya,2024,2,appOpens,204649032
+state,andaman & nicobar islands,2024,2,registeredUsers,112687
+state,andaman & nicobar islands,2024,2,appOpens,16876883
+state,haryana,2024,2,registeredUsers,18932084
+state,haryana,2024,2,appOpens,495253484
+state,rajasthan,2024,2,registeredUsers,34773619
+state,rajasthan,2024,2,appOpens,4962266918
+state,ladakh,2024,2,registeredUsers,134702
+state,ladakh,2024,2,appOpens,41355640
+state,punjab,2024,2,registeredUsers,10677703
+state,punjab,2024,2,appOpens,502438995
+state,assam,2024,2,registeredUsers,6767874
+state,assam,2024,2,appOpens,1728273868
+state,jharkhand,2024,2,registeredUsers,10501982
+state,jharkhand,2024,2,appOpens,1583300137
+state,odisha,2024,2,registeredUsers,18078622
+state,odisha,2024,2,appOpens,1439371537
+state,bihar,2024,2,registeredUsers,27786576
+state,bihar,2024,2,appOpens,1034146507
+state,kerala,2024,2,registeredUsers,13008410
+state,kerala,2024,2,appOpens,164717612
+state,karnataka,2024,2,registeredUsers,45290606
+state,karnataka,2024,2,appOpens,2195010418
+state,chandigarh,2024,2,registeredUsers,782791
+state,chandigarh,2024,2,appOpens,3351127
+state,telangana,2024,2,registeredUsers,32232171
+state,telangana,2024,2,appOpens,1007869816
+state,himachal pradesh,2024,2,registeredUsers,3172766
+state,himachal pradesh,2024,2,appOpens,291406931
+state,west bengal,2024,2,registeredUsers,32540397
+state,west bengal,2024,2,appOpens,704276274
+state,gujarat,2024,2,registeredUsers,28439885
+state,gujarat,2024,2,appOpens,2418997443
+state,sikkim,2024,2,registeredUsers,304650
+state,sikkim,2024,2,appOpens,45285995
+state,nagaland,2024,2,registeredUsers,414876
+state,nagaland,2024,2,appOpens,60494356
+state,mizoram,2024,2,registeredUsers,171540
+state,mizoram,2024,2,appOpens,44171046
+state,chhattisgarh,2024,2,registeredUsers,8704757
+state,chhattisgarh,2024,2,appOpens,1483224382
+state,jammu & kashmir,2024,2,registeredUsers,2279903
+state,jammu & kashmir,2024,2,appOpens,425109975
+state,goa,2024,2,registeredUsers,1073516
+state,goa,2024,2,appOpens,21359943
+state,arunachal pradesh,2024,2,registeredUsers,500669
+state,arunachal pradesh,2024,2,appOpens,132013837
+state,delhi,2024,2,registeredUsers,19789096
+state,delhi,2024,2,appOpens,99756459
+state,uttarakhand,2024,2,registeredUsers,5395292
+state,uttarakhand,2024,2,appOpens,309932840
+state,puducherry,2024,3,registeredUsers,629332
+state,puducherry,2024,3,appOpens,2673547
+state,tamil nadu,2024,3,registeredUsers,32965209
+state,tamil nadu,2024,3,appOpens,1237507205
+state,uttar pradesh,2024,3,registeredUsers,67922000
+state,uttar pradesh,2024,3,appOpens,2512362184
+state,madhya pradesh,2024,3,registeredUsers,31764084
+state,madhya pradesh,2024,3,appOpens,5313772854
+state,andhra pradesh,2024,3,registeredUsers,29145303
+state,andhra pradesh,2024,3,appOpens,1660426436
+state,tripura,2024,3,registeredUsers,916336
+state,tripura,2024,3,appOpens,134585619
+state,lakshadweep,2024,3,registeredUsers,11395
+state,lakshadweep,2024,3,appOpens,28226
+state,manipur,2024,3,registeredUsers,596237
+state,manipur,2024,3,appOpens,125520994
+state,maharashtra,2024,3,registeredUsers,69641161
+state,maharashtra,2024,3,appOpens,4571320472
+state,dadra & nagar haveli & daman & diu,2024,3,registeredUsers,627815
+state,dadra & nagar haveli & daman & diu,2024,3,appOpens,5429299
+state,meghalaya,2024,3,registeredUsers,548502
+state,meghalaya,2024,3,appOpens,292472944
+state,andaman & nicobar islands,2024,3,registeredUsers,172473
+state,andaman & nicobar islands,2024,3,appOpens,19554846
+state,haryana,2024,3,registeredUsers,18527288
+state,haryana,2024,3,appOpens,701589813
+state,rajasthan,2024,3,registeredUsers,35583171
+state,rajasthan,2024,3,appOpens,5335171033
+state,ladakh,2024,3,registeredUsers,194146
+state,ladakh,2024,3,appOpens,68575933
+state,punjab,2024,3,registeredUsers,10978782
+state,punjab,2024,3,appOpens,719085996
+state,assam,2024,3,registeredUsers,10098778
+state,assam,2024,3,appOpens,855216106
+state,jharkhand,2024,3,registeredUsers,11771265
+state,jharkhand,2024,3,appOpens,1330121440
+state,odisha,2024,3,registeredUsers,17966648
+state,odisha,2024,3,appOpens,1596145813
+state,bihar,2024,3,registeredUsers,31899315
+state,bihar,2024,3,appOpens,692875087
+state,kerala,2024,3,registeredUsers,13271613
+state,kerala,2024,3,appOpens,127705188
+state,karnataka,2024,3,registeredUsers,44548391
+state,karnataka,2024,3,appOpens,2731726058
+state,chandigarh,2024,3,registeredUsers,700398
+state,chandigarh,2024,3,appOpens,3757821
+state,telangana,2024,3,registeredUsers,30776242
+state,telangana,2024,3,appOpens,1397303246
+state,himachal pradesh,2024,3,registeredUsers,2953068
+state,himachal pradesh,2024,3,appOpens,277032020
+state,west bengal,2024,3,registeredUsers,33612828
+state,west bengal,2024,3,appOpens,709864323
+state,gujarat,2024,3,registeredUsers,29082108
+state,gujarat,2024,3,appOpens,2873083540
+state,sikkim,2024,3,registeredUsers,312311
+state,sikkim,2024,3,appOpens,18246210
+state,nagaland,2024,3,registeredUsers,446969
+state,nagaland,2024,3,appOpens,73710120
+state,mizoram,2024,3,registeredUsers,224952
+state,mizoram,2024,3,appOpens,109786827
+state,chhattisgarh,2024,3,registeredUsers,10290502
+state,chhattisgarh,2024,3,appOpens,1469220234
+state,jammu & kashmir,2024,3,registeredUsers,4161840
+state,jammu & kashmir,2024,3,appOpens,376570012
+state,goa,2024,3,registeredUsers,1114034
+state,goa,2024,3,appOpens,49958844
+state,arunachal pradesh,2024,3,registeredUsers,687168
+state,arunachal pradesh,2024,3,appOpens,210856966
+state,delhi,2024,3,registeredUsers,18444617
+state,delhi,2024,3,appOpens,111680825
+state,uttarakhand,2024,3,registeredUsers,5423770
+state,uttarakhand,2024,3,appOpens,414813742
+state,puducherry,2024,4,registeredUsers,646158
+state,puducherry,2024,4,appOpens,30724911
+state,tamil nadu,2024,4,registeredUsers,33966610
+state,tamil nadu,2024,4,appOpens,2229881172
+state,uttar pradesh,2024,4,registeredUsers,70474113
+state,uttar pradesh,2024,4,appOpens,5080900941
+state,madhya pradesh,2024,4,registeredUsers,32876660
+state,madhya pradesh,2024,4,appOpens,2492103990
+state,andhra pradesh,2024,4,registeredUsers,29984431
+state,andhra pradesh,2024,4,appOpens,1866359979
+state,tripura,2024,4,registeredUsers,948916
+state,tripura,2024,4,appOpens,56659293
+state,lakshadweep,2024,4,registeredUsers,11769
+state,lakshadweep,2024,4,appOpens,1797824
+state,manipur,2024,4,registeredUsers,616995
+state,manipur,2024,4,appOpens,32146128
+state,maharashtra,2024,4,registeredUsers,71807805
+state,maharashtra,2024,4,appOpens,5042420660
+state,dadra & nagar haveli & daman & diu,2024,4,registeredUsers,644550
+state,dadra & nagar haveli & daman & diu,2024,4,appOpens,41947714
+state,meghalaya,2024,4,registeredUsers,571272
+state,meghalaya,2024,4,appOpens,44407767
+state,andaman & nicobar islands,2024,4,registeredUsers,178788
+state,andaman & nicobar islands,2024,4,appOpens,18691683
+state,haryana,2024,4,registeredUsers,19051114
+state,haryana,2024,4,appOpens,1381829141
+state,rajasthan,2024,4,registeredUsers,36828375
+state,rajasthan,2024,4,appOpens,2764744237
+state,ladakh,2024,4,registeredUsers,193724
+state,ladakh,2024,4,appOpens,9881580
+state,punjab,2024,4,registeredUsers,11308453
+state,punjab,2024,4,appOpens,774697562
+state,assam,2024,4,registeredUsers,10480927
+state,assam,2024,4,appOpens,775169459
+state,jharkhand,2024,4,registeredUsers,12212421
+state,jharkhand,2024,4,appOpens,1018664763
+state,odisha,2024,4,registeredUsers,18611196
+state,odisha,2024,4,appOpens,1034390206
+state,bihar,2024,4,registeredUsers,33345285
+state,bihar,2024,4,appOpens,2527843258
+state,kerala,2024,4,registeredUsers,13689387
+state,kerala,2024,4,appOpens,873737766
+state,karnataka,2024,4,registeredUsers,45917653
+state,karnataka,2024,4,appOpens,3091599006
+state,chandigarh,2024,4,registeredUsers,721216
+state,chandigarh,2024,4,appOpens,37265017
+state,telangana,2024,4,registeredUsers,31726856
+state,telangana,2024,4,appOpens,2014592558
+state,himachal pradesh,2024,4,registeredUsers,3040819
+state,himachal pradesh,2024,4,appOpens,168576863
+state,west bengal,2024,4,registeredUsers,34750181
+state,west bengal,2024,4,appOpens,1994940763
+state,gujarat,2024,4,registeredUsers,29861641
+state,gujarat,2024,4,appOpens,2406424143
+state,sikkim,2024,4,registeredUsers,320748
+state,sikkim,2024,4,appOpens,18490840
+state,nagaland,2024,4,registeredUsers,463523
+state,nagaland,2024,4,appOpens,25389015
+state,mizoram,2024,4,registeredUsers,234527
+state,mizoram,2024,4,appOpens,12467831
+state,chhattisgarh,2024,4,registeredUsers,10651135
+state,chhattisgarh,2024,4,appOpens,869239311
+state,jammu & kashmir,2024,4,registeredUsers,4288583
+state,jammu & kashmir,2024,4,appOpens,246569412
+state,goa,2024,4,registeredUsers,1143332
+state,goa,2024,4,appOpens,78430745
+state,arunachal pradesh,2024,4,registeredUsers,710879
+state,arunachal pradesh,2024,4,appOpens,46627582
+state,delhi,2024,4,registeredUsers,18900488
+state,delhi,2024,4,appOpens,952556492
+state,uttarakhand,2024,4,registeredUsers,5575922
+state,uttarakhand,2024,4,appOpens,354208067
