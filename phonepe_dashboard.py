@@ -154,4 +154,3 @@ ax14.set_title("8. Top Districts by Registered Users")
 ax14.tick_params(axis='x', rotation=45)
 st.pyplot(fig14)
 
-st.success("✅ Dashboard Fully Loaded by Query-wise Analysis")
